@@ -1,0 +1,47 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Define the Course model
+model Course {
+  id              Int       @id @default(autoincrement())
+  courseType      String
+  courseName      String    @unique
+  instructorName  String
+  rating          Float
+  price           Float
+  description     String
+  imageUrl        String?
+  courseDuration  String
+  discountAmount  String?
+  skills          String[]
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  lessons         Lesson[]
+  reviews         Review[]
+}
+
+// Define the Lesson model
+model Lesson {
+  id        Int     @id @default(autoincrement())
+  question  String
+  answer    String
+  courseId  Int
+  course    Course  @relation(fields: [courseId], references: [id])
+}
+
+// Define the Review model
+model Review {
+  id             Int      @id @default(autoincrement())
+  userName       String
+  userOccupation String?
+  review         String
+  rating         Float
+  courseId       Int
+  course         Course   @relation(fields: [courseId], references: [id])
+}

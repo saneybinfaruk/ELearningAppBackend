@@ -1,0 +1,4159 @@
+[
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Intro to UI Design",
+    "instructorName": "Emily White",
+    "rating": 4.8,
+    "price": 49.99,
+    "description": "This course covers the basics of UI design, focusing on layout, typography, and color theory. It's perfect for beginners who want to learn the fundamentals.",
+    "imageUrl": "https://example.com/intro-to-ui-design.jpg",
+    "lessons": [
+      {
+        "question": "What is UI Design?",
+        "answer": "User Interface (UI) Design is the process of making interfaces in software with a focus on looks or style."
+      },
+      {
+        "question": "Introduction to Layouts",
+        "answer": "Learn the principles of effective layout design for digital interfaces."
+      },
+      {
+        "question": "Typography Basics",
+        "answer": "Explore the role of typography in user interfaces and best practices."
+      },
+      {
+        "question": "Color Theory in UI",
+        "answer": "Understand color theory and how to apply it to enhance user interfaces."
+      },
+      {
+        "question": "Design Tools Overview",
+        "answer": "An overview of popular design tools like Figma, Sketch, and Adobe XD."
+      },
+      {
+        "question": "Designing for Accessibility",
+        "answer": "Learn how to design accessible UI for all users."
+      },
+      {
+        "question": "Responsive Design",
+        "answer": "Learn to design interfaces that work across different devices and screen sizes."
+      },
+      {
+        "question": "Iconography in UI",
+        "answer": "The role and best practices for using icons in your design."
+      },
+      {
+        "question": "Building a UI Kit",
+        "answer": "Create your own UI kit for consistent design."
+      },
+      {
+        "question": "Hands-On Project: Designing a Simple App",
+        "answer": "Apply what you've learned to design a simple mobile app interface."
+      }
+    ],
+    "courseDuration": "5 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "UI Design",
+      "Color Theory",
+      "Typography",
+      "Layout",
+      "Responsive Design",
+      "Accessibility"
+    ],
+    "reviews": [
+      {
+        "userName": "John Doe",
+        "userOccupation": "Graphic Designer",
+        "review": "Great course for beginners in UI design! The lessons are clear and well-structured.",
+        "rating": 5
+      },
+      {
+        "userName": "Alex Kim",
+        "userOccupation": "Frontend Developer",
+        "review": "The course helped me understand layout and color theory in UI design.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Maria Garcia",
+        "userOccupation": "UI Designer",
+        "review": "Loved the practical approach and the hands-on project.",
+        "rating": 4.8
+      },
+      {
+        "userName": "David Smith",
+        "userOccupation": "Web Designer",
+        "review": "The content was well-paced and easy to follow. Highly recommend!",
+        "rating": 4.9
+      },
+      {
+        "userName": "Emily Green",
+        "userOccupation": "Product Designer",
+        "review": "The course offered great insights into accessibility and responsive design.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Michael Johnson",
+        "userOccupation": "UX/UI Designer",
+        "review": "Amazing course with useful design resources and examples.",
+        "rating": 5
+      },
+      {
+        "userName": "Sarah Brown",
+        "userOccupation": "UI Designer",
+        "review": "Clear and informative. A great start for those new to UI design.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Mark Lee",
+        "userOccupation": "App Developer",
+        "review": "The project-based approach made the learning process more effective.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Mastering UX Design",
+    "instructorName": "Lucas Green",
+    "rating": 4.9,
+    "price": 89.99,
+    "description": "This advanced course dives deep into UX design processes, user research, and usability testing. Learn how to design user-centric products.",
+    "imageUrl": "https://example.com/mastering-ux-design.jpg",
+    "lessons": [
+      {
+        "question": "What is UX Design?",
+        "answer": "UX Design refers to User Experience Design, focused on how a product feels and ensuring it meets user needs."
+      },
+      {
+        "question": "User Research Methods",
+        "answer": "Learn techniques for gathering insights from users."
+      },
+      {
+        "question": "Creating User Personas",
+        "answer": "Understand how to create personas to guide your design decisions."
+      },
+      {
+        "question": "Information Architecture",
+        "answer": "Organizing content and information effectively."
+      },
+      {
+        "question": "Wireframing Basics",
+        "answer": "Create wireframes to map out the user interface."
+      },
+      {
+        "question": "Prototyping Techniques",
+        "answer": "Explore advanced prototyping techniques using Figma."
+      },
+      {
+        "question": "Usability Testing",
+        "answer": "Learn how to test designs with real users."
+      },
+      {
+        "question": "Designing for Different Platforms",
+        "answer": "Understand the nuances of designing for web, mobile, and other platforms."
+      },
+      {
+        "question": "Interaction Design",
+        "answer": "Learn the principles of designing interactive interfaces."
+      },
+      {
+        "question": "Final Project: Redesign a User Journey",
+        "answer": "Apply your UX knowledge to redesign a complete user journey."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "UX Research",
+      "Wireframing",
+      "Prototyping",
+      "Usability Testing",
+      "Interaction Design",
+      "Information Architecture"
+    ],
+    "reviews": [
+      {
+        "userName": "Jane Smith",
+        "userOccupation": "Product Manager",
+        "review": "The course is very comprehensive, offering great insights into UX principles. Highly recommend!",
+        "rating": 4.9
+      },
+      {
+        "userName": "Mark Lee",
+        "userOccupation": "UI Designer",
+        "review": "This course helped me refine my UX skills, especially with prototyping and testing.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Emily Jones",
+        "userOccupation": "UX Researcher",
+        "review": "The user research section was especially helpful for my work.",
+        "rating": 5
+      },
+      {
+        "userName": "Chris Brown",
+        "userOccupation": "UX Designer",
+        "review": "A deep dive into UX that provides practical knowledge and hands-on activities.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Sarah Thompson",
+        "userOccupation": "Product Designer",
+        "review": "Lucas explained everything clearly, and the projects were engaging.",
+        "rating": 4.9
+      },
+      {
+        "userName": "James White",
+        "userOccupation": "Software Engineer",
+        "review": "The usability testing section was a game changer for me.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Lisa Kim",
+        "userOccupation": "Interaction Designer",
+        "review": "The focus on interaction design was very valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Michael Green",
+        "userOccupation": "UX Designer",
+        "review": "Amazing course with a well-rounded approach to UX design.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "UI/UX Fundamentals",
+    "instructorName": "Sarah Brown",
+    "rating": 4.7,
+    "price": 59.99,
+    "description": "A balanced course covering both UI and UX design principles, perfect for those looking to get started with a mix of both disciplines.",
+    "imageUrl": "https://example.com/ui-ux-fundamentals.jpg",
+    "lessons": [
+      {
+        "question": "What is User Flow?",
+        "answer": "User Flow is the path taken by a prototypical user on a website or app to complete a task."
+      },
+      {
+        "question": "UI and UX Differences",
+        "answer": "Understand the key differences between UI and UX design."
+      },
+      {
+        "question": "Creating Wireframes",
+        "answer": "Learn the importance of wireframes and how to create them."
+      },
+      {
+        "question": "Designing with Users in Mind",
+        "answer": "Explore techniques to ensure user-centric designs."
+      },
+      {
+        "question": "Visual Hierarchy",
+        "answer": "Learn to design interfaces with clear visual hierarchy."
+      },
+      {
+        "question": "Prototyping Basics",
+        "answer": "Get hands-on with prototyping tools to bring your designs to life."
+      },
+      {
+        "question": "User Testing",
+        "answer": "Understand how to conduct effective user tests."
+      },
+      {
+        "question": "Accessibility in Design",
+        "answer": "Learn how to make your designs accessible for all users."
+      },
+      {
+        "question": "Responsive Web Design",
+        "answer": "Ensure your designs are effective across devices."
+      },
+      {
+        "question": "Final Project: Design a Simple User Flow",
+        "answer": "Apply your UI/UX knowledge by designing a simple user flow for a mobile app."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "UI/UX Design",
+      "User Flow",
+      "Wireframing",
+      "Prototyping",
+      "User Testing",
+      "Responsive Design"
+    ],
+    "reviews": [
+      {
+        "userName": "Anna Williams",
+        "userOccupation": "Freelance Designer",
+        "review": "A perfect intro to both UI and UX. Sarah is a great instructor!",
+        "rating": 4.8
+      },
+      {
+        "userName": "John Carter",
+        "userOccupation": "Web Developer",
+        "review": "This course was very helpful in understanding the basics of user flow.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Laura Baker",
+        "userOccupation": "Graphic Designer",
+        "review": "The balance between UI and UX concepts was perfect.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Chris Evans",
+        "userOccupation": "App Developer",
+        "review": "Sarah's teaching style is clear and easy to follow. Great course!",
+        "rating": 4.6
+      },
+      {
+        "userName": "Sophia Miller",
+        "userOccupation": "UX Designer",
+        "review": "The prototyping lessons were very hands-on and practical.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Olivia Taylor",
+        "userOccupation": "UI Designer",
+        "review": "Loved the project-based approach of this course.",
+        "rating": 4.7
+      },
+      {
+        "userName": "James Harris",
+        "userOccupation": "Product Designer",
+        "review": "The course gave me a strong foundation in both UI and UX design.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Daniel Martin",
+        "userOccupation": "Web Developer",
+        "review": "Highly recommend for anyone starting in UI/UX design.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Advanced UX Strategies",
+    "instructorName": "Anna Lee",
+    "rating": 4.8,
+    "price": 99.99,
+    "description": "This course explores advanced UX strategies, including behavioral design, journey mapping, and advanced user research techniques.",
+    "imageUrl": "https://example.com/advanced-ux-strategies.jpg",
+    "lessons": [
+      {
+        "question": "What is Behavioral Design?",
+        "answer": "Behavioral design focuses on understanding and influencing user behavior through design."
+      },
+      {
+        "question": "Creating User Journey Maps",
+        "answer": "Learn to create user journey maps to visualize user interactions with your product."
+      },
+      {
+        "question": "Advanced User Research Techniques",
+        "answer": "Explore advanced techniques for gathering and analyzing user feedback."
+      },
+      {
+        "question": "Designing for Emotional Impact",
+        "answer": "Learn how to design interfaces that create emotional connections with users."
+      },
+      {
+        "question": "Optimizing User Flows",
+        "answer": "Techniques for optimizing user flows to enhance the user experience."
+      },
+      {
+        "question": "A/B Testing and Experimentation",
+        "answer": "Learn how to conduct A/B testing and use experimentation to refine designs."
+      },
+      {
+        "question": "Leveraging Analytics for UX Design",
+        "answer": "Understand how to use analytics to drive UX design decisions."
+      },
+      {
+        "question": "Designing for Different Cultures",
+        "answer": "Learn how to design user interfaces that cater to different cultural norms and preferences."
+      },
+      {
+        "question": "Ethical Design Practices",
+        "answer": "Explore ethical considerations and practices in UX design."
+      },
+      {
+        "question": "Final Project: Redesign an Existing Product",
+        "answer": "Apply advanced UX strategies to redesign an existing product based on user research and testing."
+      }
+    ],
+    "courseDuration": "10 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Behavioral Design",
+      "Journey Mapping",
+      "User Research",
+      "Emotional Impact",
+      "A/B Testing",
+      "Cultural Design",
+      "Ethical Design"
+    ],
+    "reviews": [
+      {
+        "userName": "Jessica Thompson",
+        "userOccupation": "Senior UX Designer",
+        "review": "This course provided deep insights into advanced UX techniques. The journey mapping and behavioral design sections were particularly valuable.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Richard Lewis",
+        "userOccupation": "UX Researcher",
+        "review": "A comprehensive course that covers complex UX strategies. The A/B testing module was incredibly useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Karen Wilson",
+        "userOccupation": "Product Designer",
+        "review": "The focus on cultural design and ethical practices was eye-opening. Highly recommended for advanced UX practitioners.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Daniel Martinez",
+        "userOccupation": "UX Consultant",
+        "review": "Excellent course with practical applications. The final project was a great way to apply the concepts learned.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Nancy Scott",
+        "userOccupation": "Interaction Designer",
+        "review": "The course was well-structured and provided actionable insights into improving UX strategies.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Paul Anderson",
+        "userOccupation": "UX Designer",
+        "review": "Fantastic course for those looking to deepen their UX knowledge. The advanced research techniques were particularly useful.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Laura Roberts",
+        "userOccupation": "UX Lead",
+        "review": "Great content and engaging instructor. The course covered all aspects of advanced UX design.",
+        "rating": 4.8
+      },
+      {
+        "userName": "James Robinson",
+        "userOccupation": "Digital Product Designer",
+        "review": "This course gave me new tools and perspectives for my UX practice. Highly recommend!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Design Thinking for UI/UX",
+    "instructorName": "Michael Thompson",
+    "rating": 4.7,
+    "price": 69.99,
+    "description": "This course teaches design thinking principles and how to apply them to UI/UX design, including ideation, prototyping, and user testing.",
+    "imageUrl": "https://example.com/design-thinking-ui-ux.jpg",
+    "lessons": [
+      {
+        "question": "What is Design Thinking?",
+        "answer": "Design thinking is a user-centered approach to problem-solving that emphasizes empathy, ideation, and experimentation."
+      },
+      {
+        "question": "Empathy and User Research",
+        "answer": "Learn how to build empathy for users through effective research methods."
+      },
+      {
+        "question": "Defining the Problem",
+        "answer": "Techniques for clearly defining the problem you are solving."
+      },
+      {
+        "question": "Ideation Techniques",
+        "answer": "Explore various ideation techniques to generate creative solutions."
+      },
+      {
+        "question": "Prototyping Methods",
+        "answer": "Learn different methods for creating prototypes and testing ideas."
+      },
+      {
+        "question": "User Testing Best Practices",
+        "answer": "Effective strategies for conducting user tests and gathering feedback."
+      },
+      {
+        "question": "Iterative Design",
+        "answer": "Understand the iterative design process and how to refine solutions based on user feedback."
+      },
+      {
+        "question": "Collaborative Design",
+        "answer": "Explore how to collaborate with teams and stakeholders in the design process."
+      },
+      {
+        "question": "Applying Design Thinking in Real Projects",
+        "answer": "Apply design thinking principles to a real-world project scenario."
+      },
+      {
+        "question": "Final Project: Design a Solution",
+        "answer": "Use design thinking to develop and present a solution to a given problem."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "12%",
+    "skills": [
+      "Design Thinking",
+      "Empathy",
+      "Ideation",
+      "Prototyping",
+      "User Testing",
+      "Iterative Design",
+      "Collaborative Design"
+    ],
+    "reviews": [
+      {
+        "userName": "Sarah Miller",
+        "userOccupation": "UX Designer",
+        "review": "The course provided a solid foundation in design thinking. The practical exercises were very useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Tom Harris",
+        "userOccupation": "Product Designer",
+        "review": "Great course for understanding the design thinking process and applying it to UI/UX design.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Rachel Davis",
+        "userOccupation": "Interaction Designer",
+        "review": "The ideation and prototyping lessons were particularly insightful. Highly recommend for those new to design thinking.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Joshua Evans",
+        "userOccupation": "UX Researcher",
+        "review": "Michael's approach to design thinking was clear and actionable. The final project was a great way to apply the concepts.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Hannah Clark",
+        "userOccupation": "UX Designer",
+        "review": "The course is well-structured with practical examples. Useful for both beginners and those looking to refresh their design thinking skills.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Liam Martinez",
+        "userOccupation": "UI Designer",
+        "review": "A comprehensive course on design thinking principles. The user testing section was especially useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ella Wilson",
+        "userOccupation": "Product Manager",
+        "review": "Very engaging and informative course. The collaborative design lessons were a highlight.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Noah Brown",
+        "userOccupation": "Design Consultant",
+        "review": "A practical approach to design thinking that I can apply immediately in my work. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "UI Design Fundamentals",
+    "instructorName": "Emma White",
+    "rating": 4.6,
+    "price": 79.99,
+    "description": "This course covers the fundamentals of UI design, including layout principles, typography, color theory, and interaction design.",
+    "imageUrl": "https://example.com/ui-design-fundamentals.jpg",
+    "lessons": [
+      {
+        "question": "What are the basic principles of UI design?",
+        "answer": "Learn the essential principles of user interface design, including hierarchy, alignment, and balance."
+      },
+      {
+        "question": "How to use typography effectively in UI design?",
+        "answer": "Explore best practices for selecting and using typography in user interfaces."
+      },
+      {
+        "question": "Understanding color theory for UI design",
+        "answer": "Learn how to choose and apply color schemes that enhance user experience."
+      },
+      {
+        "question": "Creating effective layouts",
+        "answer": "Techniques for designing layouts that are both functional and aesthetically pleasing."
+      },
+      {
+        "question": "Designing interactive elements",
+        "answer": "Best practices for designing buttons, forms, and other interactive elements."
+      },
+      {
+        "question": "Responsive design principles",
+        "answer": "Learn how to create designs that work well on various screen sizes and devices."
+      },
+      {
+        "question": "Accessibility in UI design",
+        "answer": "Understand how to make your designs accessible to users with disabilities."
+      },
+      {
+        "question": "UI design tools and resources",
+        "answer": "An overview of popular tools and resources used in UI design."
+      },
+      {
+        "question": "Building a UI design portfolio",
+        "answer": "Tips for creating a compelling UI design portfolio to showcase your skills."
+      },
+      {
+        "question": "Final Project: Design a User Interface",
+        "answer": "Apply what you've learned to design a complete user interface for a given project."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "UI Design Principles",
+      "Typography",
+      "Color Theory",
+      "Layout Design",
+      "Interaction Design",
+      "Responsive Design",
+      "Accessibility"
+    ],
+    "reviews": [
+      {
+        "userName": "Megan Adams",
+        "userOccupation": "UI Designer",
+        "review": "A great course for mastering the basics of UI design. The typography and color theory lessons were very helpful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Brian King",
+        "userOccupation": "Graphic Designer",
+        "review": "The course provided a solid foundation in UI design principles. I appreciated the emphasis on accessibility.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Sophia Nelson",
+        "userOccupation": "Product Designer",
+        "review": "Very informative and practical. The final project was a great way to apply the skills learned.",
+        "rating": 4.8
+      },
+      {
+        "userName": "James Taylor",
+        "userOccupation": "UX Designer",
+        "review": "Excellent course for anyone new to UI design. The lessons on interactive elements were particularly useful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Olivia Martinez",
+        "userOccupation": "Design Student",
+        "review": "The course was well-structured and covered all the key aspects of UI design. I would highly recommend it.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Alexander Scott",
+        "userOccupation": "Web Designer",
+        "review": "Great content and clear explanations. The tools and resources section was particularly valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Isabella Roberts",
+        "userOccupation": "UX Researcher",
+        "review": "A comprehensive introduction to UI design. The focus on responsive design was very relevant.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Matthew Wright",
+        "userOccupation": "Visual Designer",
+        "review": "The course provided a solid understanding of UI design. The accessibility module was very insightful.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Mobile UX Design",
+    "instructorName": "Sophia Green",
+    "rating": 4.7,
+    "price": 89.99,
+    "description": "This course focuses on mobile UX design, covering best practices for designing user-friendly mobile applications and optimizing the mobile experience.",
+    "imageUrl": "https://example.com/mobile-ux-design.jpg",
+    "lessons": [
+      {
+        "question": "What are the key principles of mobile UX design?",
+        "answer": "Learn the fundamental principles of designing for mobile devices, including usability and responsiveness."
+      },
+      {
+        "question": "Designing for touch interfaces",
+        "answer": "Explore best practices for designing touch-friendly interfaces."
+      },
+      {
+        "question": "Mobile navigation patterns",
+        "answer": "Understand different navigation patterns and how to implement them effectively in mobile apps."
+      },
+      {
+        "question": "Optimizing mobile performance",
+        "answer": "Techniques for improving the performance and speed of mobile applications."
+      },
+      {
+        "question": "Designing for different screen sizes",
+        "answer": "Learn how to create designs that adapt to various screen sizes and orientations."
+      },
+      {
+        "question": "Mobile user research",
+        "answer": "Methods for conducting user research specifically for mobile applications."
+      },
+      {
+        "question": "Creating mobile prototypes",
+        "answer": "Best practices for creating interactive prototypes for mobile apps."
+      },
+      {
+        "question": "User testing for mobile apps",
+        "answer": "How to conduct user testing for mobile applications and gather actionable feedback."
+      },
+      {
+        "question": "Designing for different mobile platforms",
+        "answer": "Understand the differences in designing for iOS and Android platforms."
+      },
+      {
+        "question": "Final Project: Design a Mobile App",
+        "answer": "Apply mobile UX design principles to create a complete mobile app design."
+      }
+    ],
+    "courseDuration": "9 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Mobile UX Design",
+      "Touch Interfaces",
+      "Navigation Patterns",
+      "Mobile Performance",
+      "Screen Adaptation",
+      "User Research",
+      "Prototyping",
+      "User Testing"
+    ],
+    "reviews": [
+      {
+        "userName": "Emma Taylor",
+        "userOccupation": "Mobile UX Designer",
+        "review": "The course offered practical insights into mobile UX design. The sections on mobile performance and touch interfaces were very useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Lucas Young",
+        "userOccupation": "Product Designer",
+        "review": "Great content for anyone working on mobile apps. The mobile navigation patterns lesson was particularly valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Chloe Walker",
+        "userOccupation": "UX Researcher",
+        "review": "Sophia's course was well-structured and covered all the important aspects of mobile UX design. Highly recommended.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ethan Harris",
+        "userOccupation": "UI/UX Designer",
+        "review": "Excellent course with a focus on mobile-specific design challenges. The final project was a great way to apply the concepts.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Ava Green",
+        "userOccupation": "App Developer",
+        "review": "Very informative course with practical examples. The lessons on different mobile platforms were particularly helpful.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Oliver King",
+        "userOccupation": "Interaction Designer",
+        "review": "The course provided valuable insights into optimizing mobile app performance and user testing.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Mia Collins",
+        "userOccupation": "UX Designer",
+        "review": "A comprehensive guide to mobile UX design. The section on creating prototypes was particularly useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "James Johnson",
+        "userOccupation": "Visual Designer",
+        "review": "Great course for learning mobile UX principles. The content was clear and actionable.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "Advanced UX Strategies",
+    "instructorName": "Daniel Thompson",
+    "rating": 4.8,
+    "price": 99.99,
+    "description": "This course dives into advanced UX strategies, focusing on user-centered design, advanced prototyping, and integrating UX research into your design process.",
+    "imageUrl": "https://example.com/advanced-ux-strategies.jpg",
+    "lessons": [
+      {
+        "question": "What are advanced UX research methods?",
+        "answer": "Learn about advanced techniques for gathering and analyzing user feedback."
+      },
+      {
+        "question": "How to create user-centered design strategies?",
+        "answer": "Explore strategies for designing with a strong focus on user needs and behaviors."
+      },
+      {
+        "question": "Integrating UX research into design",
+        "answer": "Techniques for incorporating research findings into your design process."
+      },
+      {
+        "question": "Advanced prototyping techniques",
+        "answer": "Learn about high-fidelity prototyping and tools to create interactive prototypes."
+      },
+      {
+        "question": "Designing for complex user journeys",
+        "answer": "Strategies for designing seamless experiences for complex user interactions."
+      },
+      {
+        "question": "UX metrics and analytics",
+        "answer": "How to use metrics and analytics to measure the success of your UX design."
+      },
+      {
+        "question": "Design thinking in practice",
+        "answer": "Applying design thinking principles to solve complex UX problems."
+      },
+      {
+        "question": "Case studies of successful UX projects",
+        "answer": "Analyze real-world case studies to understand what makes a UX design successful."
+      },
+      {
+        "question": "Collaborating with stakeholders",
+        "answer": "Best practices for working with stakeholders to achieve project goals."
+      },
+      {
+        "question": "Final Project: Create an Advanced UX Strategy",
+        "answer": "Develop a comprehensive UX strategy for a real-world project, incorporating all learned techniques."
+      }
+    ],
+    "courseDuration": "12 hours",
+    "discountAmount": "25%",
+    "skills": [
+      "User-Centered Design",
+      "UX Research",
+      "Advanced Prototyping",
+      "Complex User Journeys",
+      "UX Metrics",
+      "Design Thinking",
+      "Stakeholder Collaboration"
+    ],
+    "reviews": [
+      {
+        "userName": "Liam Wilson",
+        "userOccupation": "Senior UX Designer",
+        "review": "An excellent deep dive into advanced UX strategies. The case studies and prototyping lessons were particularly insightful.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Isabella Brooks",
+        "userOccupation": "UX Researcher",
+        "review": "The course provided a thorough understanding of integrating UX research into design. Highly recommended for advanced learners.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ethan White",
+        "userOccupation": "Product Manager",
+        "review": "The course content was very relevant to my work. The focus on user-centered strategies and metrics was especially valuable.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ava Clark",
+        "userOccupation": "UI/UX Designer",
+        "review": "Great course for anyone looking to advance their UX skills. The lessons on design thinking and stakeholder collaboration were very helpful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Mason Lewis",
+        "userOccupation": "Interaction Designer",
+        "review": "The course was comprehensive and provided a lot of practical advice. The final project was a great way to apply the strategies learned.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Olivia Taylor",
+        "userOccupation": "UX Consultant",
+        "review": "A solid course that covers advanced topics in UX design. The integration of research into design was particularly useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "James Anderson",
+        "userOccupation": "Design Strategist",
+        "review": "Valuable insights into creating effective UX strategies. The content was well-organized and actionable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Emily Harris",
+        "userOccupation": "Visual Designer",
+        "review": "The course exceeded my expectations. The case studies and prototyping sections were particularly well-done.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "courseType": "UI/UX Design",
+    "courseName": "UX for E-Commerce",
+    "instructorName": "Rachel Adams",
+    "rating": 4.7,
+    "price": 89.99,
+    "description": "This course focuses on UX design specifically for e-commerce platforms, covering strategies for improving user engagement, conversion rates, and overall user satisfaction.",
+    "imageUrl": "https://example.com/ux-for-ecommerce.jpg",
+    "lessons": [
+      {
+        "question": "What are the key elements of e-commerce UX?",
+        "answer": "Learn the essential elements that contribute to a successful e-commerce user experience."
+      },
+      {
+        "question": "Designing for conversion optimization",
+        "answer": "Strategies for designing interfaces that drive higher conversion rates."
+      },
+      {
+        "question": "Improving product page usability",
+        "answer": "Techniques for enhancing the usability of product pages to boost user engagement."
+      },
+      {
+        "question": "Streamlining the checkout process",
+        "answer": "Best practices for designing a seamless and efficient checkout process."
+      },
+      {
+        "question": "Mobile UX for e-commerce",
+        "answer": "Designing user experiences optimized for mobile e-commerce applications."
+      },
+      {
+        "question": "Personalization and user engagement",
+        "answer": "How to use personalization to enhance user engagement and satisfaction."
+      },
+      {
+        "question": "Integrating reviews and ratings effectively",
+        "answer": "Best practices for incorporating user reviews and ratings into e-commerce sites."
+      },
+      {
+        "question": "Designing for user trust and security",
+        "answer": "Techniques for building trust and ensuring security in e-commerce transactions."
+      },
+      {
+        "question": "Analyzing e-commerce UX metrics",
+        "answer": "How to measure and analyze UX metrics specific to e-commerce platforms."
+      },
+      {
+        "question": "Final Project: Design an E-Commerce Experience",
+        "answer": "Create a complete e-commerce user experience design, incorporating all key elements and strategies learned."
+      }
+    ],
+    "courseDuration": "10 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "E-Commerce UX",
+      "Conversion Optimization",
+      "Product Page Usability",
+      "Checkout Design",
+      "Mobile UX",
+      "Personalization",
+      "Reviews and Ratings",
+      "User Trust and Security"
+    ],
+    "reviews": [
+      {
+        "userName": "Lily Johnson",
+        "userOccupation": "E-Commerce UX Designer",
+        "review": "This course provided excellent strategies for optimizing e-commerce user experiences. The checkout design lessons were especially useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Jacob Miller",
+        "userOccupation": "Product Designer",
+        "review": "Great course for understanding e-commerce UX challenges. The section on personalization and user engagement was particularly valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Sophia Evans",
+        "userOccupation": "UX Researcher",
+        "review": "The course offered practical advice on improving e-commerce UX. The metrics and analysis section was very informative.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Michael Robinson",
+        "userOccupation": "UI/UX Designer",
+        "review": "An insightful course that covered all the crucial aspects of e-commerce UX design. The final project was a great way to apply what was learned.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Emma Harris",
+        "userOccupation": "Web Developer",
+        "review": "Very useful course with actionable strategies for e-commerce design. The mobile UX section was particularly relevant.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Oliver Lewis",
+        "userOccupation": "UX Consultant",
+        "review": "The course was well-structured and provided valuable insights into designing for e-commerce. Highly recommended for UX professionals.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ava Clark",
+        "userOccupation": "Design Lead",
+        "review": "Great content on enhancing user engagement and trust in e-commerce. The design principles were clear and practical.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Noah Green",
+        "userOccupation": "E-Commerce Manager",
+        "review": "The course delivered practical advice for improving e-commerce experiences. The review and rating integration lessons were particularly useful.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "courseType": "Web Design",
+    "courseName": "Modern Web Design Principles",
+    "instructorName": "Sophia Bennett",
+    "rating": 4.8,
+    "price": 89.99,
+    "description": "This course covers modern web design principles, including responsive design, typography, and user interface best practices for creating visually appealing and functional websites.",
+    "imageUrl": "https://example.com/modern-web-design-principles.jpg",
+    "lessons": [
+      {
+        "question": "What are the fundamentals of modern web design?",
+        "answer": "Explore the core principles that define contemporary web design practices."
+      },
+      {
+        "question": "How to implement responsive design?",
+        "answer": "Learn techniques for making websites look great on any device or screen size."
+      },
+      {
+        "question": "Best practices for web typography",
+        "answer": "Understand how to choose and use fonts effectively to enhance readability and aesthetics."
+      },
+      {
+        "question": "Creating visually appealing layouts",
+        "answer": "Techniques for designing engaging and attractive website layouts."
+      },
+      {
+        "question": "Color theory and web design",
+        "answer": "Learn about color schemes and how to use color effectively in web design."
+      },
+      {
+        "question": "Optimizing web design for performance",
+        "answer": "Strategies for improving website load times and performance."
+      },
+      {
+        "question": "Designing for accessibility",
+        "answer": "Best practices for making websites accessible to all users, including those with disabilities."
+      },
+      {
+        "question": "Using design systems",
+        "answer": "How to implement and utilize design systems for consistency and efficiency in web design."
+      },
+      {
+        "question": "UI components and patterns",
+        "answer": "Learn about common UI components and design patterns used in modern web design."
+      },
+      {
+        "question": "Final Project: Design a Modern Website",
+        "answer": "Apply the principles learned to create a complete and modern website design."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Responsive Design",
+      "Typography",
+      "Visual Layouts",
+      "Color Theory",
+      "Performance Optimization",
+      "Accessibility",
+      "Design Systems",
+      "UI Components"
+    ],
+    "reviews": [
+      {
+        "userName": "Emma Walker",
+        "userOccupation": "Web Designer",
+        "review": "An excellent course for learning modern web design principles. The sections on responsive design and typography were particularly helpful.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Noah Smith",
+        "userOccupation": "Front-End Developer",
+        "review": "Great content with practical advice on designing for performance and accessibility. The final project was a great way to apply what was learned.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Olivia Johnson",
+        "userOccupation": "UI/UX Designer",
+        "review": "The course provided valuable insights into current design trends and best practices. The focus on design systems was especially useful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Liam Anderson",
+        "userOccupation": "Web Developer",
+        "review": "A well-structured course with clear explanations and practical examples. The typography and layout lessons were very informative.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Sophia Martinez",
+        "userOccupation": "Freelance Designer",
+        "review": "Very useful for understanding the fundamentals of modern web design. The course was engaging and the final project was a great touch.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Jacob Lee",
+        "userOccupation": "Digital Designer",
+        "review": "The course covered all essential aspects of modern web design. The color theory and performance optimization sections were particularly valuable.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ava Davis",
+        "userOccupation": "Creative Director",
+        "review": "Well-rounded course with practical tips and techniques for modern web design. The design systems section was especially insightful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Ethan Wilson",
+        "userOccupation": "UX/UI Designer",
+        "review": "An excellent resource for both new and experienced designers. The course was comprehensive and the lessons were easy to follow.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "Web Design for Beginners",
+    "instructorName": "David Green",
+    "rating": 4.6,
+    "price": 59.99,
+    "description": "A beginner-friendly course that introduces the basics of web design, including HTML, CSS, and basic design principles. Ideal for those starting out in web design.",
+    "imageUrl": "https://example.com/web-design-for-beginners.jpg",
+    "lessons": [
+      {
+        "question": "What is web design?",
+        "answer": "An introduction to web design and its importance in creating functional and attractive websites."
+      },
+      {
+        "question": "How to write HTML code?",
+        "answer": "Learn the basics of HTML, including tags, elements, and document structure."
+      },
+      {
+        "question": "CSS fundamentals",
+        "answer": "An introduction to CSS and how to use it for styling web pages."
+      },
+      {
+        "question": "Creating responsive layouts with CSS",
+        "answer": "Techniques for making web pages look good on different screen sizes using CSS."
+      },
+      {
+        "question": "Basic design principles",
+        "answer": "Overview of key design principles, such as contrast, alignment, and proximity."
+      },
+      {
+        "question": "Using web design tools",
+        "answer": "Introduction to tools and software used in web design, such as code editors and design platforms."
+      },
+      {
+        "question": "Designing a simple webpage",
+        "answer": "Step-by-step guide to creating a basic webpage from scratch."
+      },
+      {
+        "question": "Introduction to user experience (UX)",
+        "answer": "Basic concepts of UX design and how it affects web design."
+      },
+      {
+        "question": "Best practices for web design",
+        "answer": "Tips and techniques for creating effective and user-friendly web designs."
+      },
+      {
+        "question": "Final Project: Build Your First Website",
+        "answer": "Apply what you've learned to create a complete, simple website."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "Design Principles",
+      "Web Design Tools",
+      "Basic UX Concepts"
+    ],
+    "reviews": [
+      {
+        "userName": "Lucas Martin",
+        "userOccupation": "Web Developer",
+        "review": "A great introduction to web design for beginners. The lessons on HTML and CSS were clear and easy to follow.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Mia Clark",
+        "userOccupation": "Graphic Designer",
+        "review": "Perfect course for someone just starting out in web design. The final project was a great way to practice the skills learned.",
+        "rating": 4.5
+      },
+      {
+        "userName": "Jackson Brown",
+        "userOccupation": "Freelance Designer",
+        "review": "The course covered all the basics of web design. The sections on responsive design and best practices were particularly useful.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Harper Wilson",
+        "userOccupation": "Front-End Developer",
+        "review": "Good overview of web design principles. The practical exercises helped solidify my understanding of HTML and CSS.",
+        "rating": 4.5
+      },
+      {
+        "userName": "Aiden Harris",
+        "userOccupation": "UI/UX Designer",
+        "review": "The course was well-structured and informative. The basics of design principles were well explained and easy to grasp.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Ella Moore",
+        "userOccupation": "Digital Artist",
+        "review": "Great for beginners looking to learn web design. The tools and techniques covered were practical and relevant.",
+        "rating": 4.5
+      },
+      {
+        "userName": "Eli Davis",
+        "userOccupation": "Web Designer",
+        "review": "The course provided a solid foundation in web design. The final project was a good opportunity to apply what was learned.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Zoe Martinez",
+        "userOccupation": "Creative Intern",
+        "review": "An easy-to-follow course that covers the essentials of web design. The lessons on CSS and responsive design were especially useful.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "Advanced Web Design Techniques",
+    "instructorName": "Liam Roberts",
+    "rating": 4.9,
+    "price": 129.99,
+    "description": "This advanced course delves into complex web design techniques, including advanced CSS, JavaScript for interactive elements, and optimizing web performance.",
+    "imageUrl": "https://example.com/advanced-web-design-techniques.jpg",
+    "lessons": [
+      {
+        "question": "What are advanced CSS techniques?",
+        "answer": "Explore advanced CSS properties and methods for creating sophisticated layouts and designs."
+      },
+      {
+        "question": "Using JavaScript for interactive web elements",
+        "answer": "Learn how to enhance web pages with interactive features using JavaScript."
+      },
+      {
+        "question": "Optimizing web performance",
+        "answer": "Techniques for improving website speed and performance, including lazy loading and code splitting."
+      },
+      {
+        "question": "Creating animations with CSS and JavaScript",
+        "answer": "How to implement animations and transitions to create engaging user experiences."
+      },
+      {
+        "question": "Designing for different devices and browsers",
+        "answer": "Best practices for ensuring your designs work well across various devices and browsers."
+      },
+      {
+        "question": "Advanced layout techniques",
+        "answer": "Using CSS Grid and Flexbox for complex and responsive layouts."
+      },
+      {
+        "question": "Integrating third-party libraries and frameworks",
+        "answer": "How to incorporate libraries and frameworks into your web design workflow."
+      },
+      {
+        "question": "Improving accessibility in advanced designs",
+        "answer": "Strategies for ensuring that advanced web designs are accessible to all users."
+      },
+      {
+        "question": "Designing for SEO",
+        "answer": "Techniques for designing websites that are optimized for search engines."
+      },
+      {
+        "question": "Final Project: Build an Advanced Web Design",
+        "answer": "Create a complex web design incorporating advanced techniques and performance optimizations."
+      }
+    ],
+    "courseDuration": "15 hours",
+    "discountAmount": "30%",
+    "skills": [
+      "Advanced CSS",
+      "JavaScript",
+      "Web Performance Optimization",
+      "Animations",
+      "Responsive Design",
+      "Layout Techniques",
+      "Third-Party Libraries",
+      "Accessibility",
+      "SEO"
+    ],
+    "reviews": [
+      {
+        "userName": "Ava Green",
+        "userOccupation": "Senior Web Developer",
+        "review": "An exceptional course for advanced web design techniques. The sections on CSS animations and JavaScript were particularly impressive.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Mason Clark",
+        "userOccupation": "Full-Stack Developer",
+        "review": "The course covered advanced topics thoroughly and provided practical examples. The final project was a great way to apply complex techniques.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Isabella Adams",
+        "userOccupation": "Web Designer",
+        "review": "Fantastic content on optimizing web performance and creating advanced layouts. The course was both challenging and rewarding.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Ethan Robinson",
+        "userOccupation": "UI/UX Designer",
+        "review": "Highly recommended for experienced designers looking to deepen their skills. The lessons on JavaScript and performance were especially valuable.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Olivia Davis",
+        "userOccupation": "Front-End Developer",
+        "review": "The course was comprehensive and detailed. The focus on advanced CSS and integrating third-party libraries was particularly useful.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Noah Martinez",
+        "userOccupation": "Web Developer",
+        "review": "A top-notch course for mastering advanced web design techniques. The accessibility and SEO lessons were very insightful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Sophia Wilson",
+        "userOccupation": "Creative Director",
+        "review": "Excellent course with high-quality content. The final project was a great challenge and helped solidify the advanced techniques learned.",
+        "rating": 4.9
+      },
+      {
+        "userName": "James Lee",
+        "userOccupation": "Design Lead",
+        "review": "The course provided valuable insights into advanced design techniques. The emphasis on performance and accessibility was very relevant.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "UI Design Essentials",
+    "instructorName": "Emily Johnson",
+    "rating": 4.7,
+    "price": 79.99,
+    "description": "This course focuses on the essential aspects of UI design, including layout principles, user interaction design, and the use of design tools to create effective user interfaces.",
+    "imageUrl": "https://example.com/ui-design-essentials.jpg",
+    "lessons": [
+      {
+        "question": "What are the core principles of UI design?",
+        "answer": "Understand the fundamental principles of user interface design to create intuitive and engaging user experiences."
+      },
+      {
+        "question": "How to create effective UI layouts?",
+        "answer": "Learn techniques for designing layouts that enhance usability and visual appeal."
+      },
+      {
+        "question": "Designing for different screen sizes",
+        "answer": "Explore methods for designing interfaces that work well on various devices and screen sizes."
+      },
+      {
+        "question": "Using design tools for UI design",
+        "answer": "Introduction to popular design tools and software used in UI design, such as Figma and Sketch."
+      },
+      {
+        "question": "Color and typography in UI design",
+        "answer": "Best practices for choosing colors and typography to create a visually appealing UI."
+      },
+      {
+        "question": "Designing for accessibility",
+        "answer": "Techniques for making user interfaces accessible to all users, including those with disabilities."
+      },
+      {
+        "question": "Creating interactive UI elements",
+        "answer": "How to design interactive elements like buttons, forms, and navigations that enhance user experience."
+      },
+      {
+        "question": "Prototyping and user testing",
+        "answer": "Learn how to create prototypes and conduct user testing to refine your UI designs."
+      },
+      {
+        "question": "Responsive UI design techniques",
+        "answer": "Strategies for designing user interfaces that adapt to different screen sizes and orientations."
+      },
+      {
+        "question": "Final Project: Design a Complete UI",
+        "answer": "Apply the skills learned to create a complete and functional user interface for a web application."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "UI Design Principles",
+      "Layout Design",
+      "Design Tools",
+      "Color Theory",
+      "Typography",
+      "Accessibility",
+      "Interactive Elements",
+      "Prototyping",
+      "Responsive Design"
+    ],
+    "reviews": [
+      {
+        "userName": "Lucas Carter",
+        "userOccupation": "UI Designer",
+        "review": "A great course for mastering the essentials of UI design. The lessons on interactive elements and prototyping were especially valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Mia Davis",
+        "userOccupation": "Front-End Developer",
+        "review": "Informative and practical. The course provided useful insights into color theory and typography for UI design.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Ethan Lee",
+        "userOccupation": "Graphic Designer",
+        "review": "The course covered the core aspects of UI design thoroughly. The focus on accessibility and responsive design was very relevant.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Ava Rodriguez",
+        "userOccupation": "UX/UI Designer",
+        "review": "Well-structured and engaging. The interactive UI elements and user testing sections were particularly helpful.",
+        "rating": 4.6
+      },
+      {
+        "userName": "James Wilson",
+        "userOccupation": "Product Designer",
+        "review": "A solid course for learning UI design principles and techniques. The final project was a great way to apply the concepts.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Olivia White",
+        "userOccupation": "Design Intern",
+        "review": "The course was easy to follow and packed with useful information. The lessons on design tools were especially useful.",
+        "rating": 4.6
+      },
+      {
+        "userName": "Noah Taylor",
+        "userOccupation": "Web Designer",
+        "review": "Very informative course. The focus on prototyping and user testing was practical and applicable to real-world projects.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Sophia Harris",
+        "userOccupation": "Creative Director",
+        "review": "Great course for understanding UI design essentials. The responsive design techniques were very practical.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "Advanced CSS and JavaScript for Web Design",
+    "instructorName": "William Anderson",
+    "rating": 4.8,
+    "price": 99.99,
+    "description": "Dive into advanced CSS and JavaScript techniques for web design, including animations, transitions, and interactive features to enhance user experience.",
+    "imageUrl": "https://example.com/advanced-css-js-web-design.jpg",
+    "lessons": [
+      {
+        "question": "Advanced CSS techniques for layouts",
+        "answer": "Learn about advanced CSS properties and methods for creating complex and responsive layouts."
+      },
+      {
+        "question": "Creating animations with CSS",
+        "answer": "Techniques for designing and implementing animations to improve user engagement."
+      },
+      {
+        "question": "JavaScript for interactive web elements",
+        "answer": "How to use JavaScript to add interactivity and dynamic features to your web designs."
+      },
+      {
+        "question": "Optimizing CSS and JavaScript performance",
+        "answer": "Strategies for optimizing the performance of CSS and JavaScript to ensure fast load times."
+      },
+      {
+        "question": "Advanced CSS Grid and Flexbox",
+        "answer": "Explore advanced techniques for using CSS Grid and Flexbox for modern web layouts."
+      },
+      {
+        "question": "Implementing complex animations",
+        "answer": "How to create complex and engaging animations using CSS and JavaScript."
+      },
+      {
+        "question": "Enhancing user experience with JavaScript",
+        "answer": "Best practices for using JavaScript to enhance and improve the overall user experience."
+      },
+      {
+        "question": "Building interactive features with JavaScript",
+        "answer": "How to design and implement interactive features like sliders, modals, and dynamic content."
+      },
+      {
+        "question": "Responsive animations and interactions",
+        "answer": "Creating animations and interactions that work well on various devices and screen sizes."
+      },
+      {
+        "question": "Final Project: Build an Interactive Web Experience",
+        "answer": "Apply advanced CSS and JavaScript techniques to create a fully interactive and engaging web experience."
+      }
+    ],
+    "courseDuration": "12 hours",
+    "discountAmount": "25%",
+    "skills": [
+      "Advanced CSS",
+      "JavaScript",
+      "Web Animations",
+      "Responsive Design",
+      "Performance Optimization",
+      "CSS Grid",
+      "Flexbox",
+      "Interactive Features"
+    ],
+    "reviews": [
+      {
+        "userName": "Aiden Miller",
+        "userOccupation": "Web Developer",
+        "review": "An excellent course for learning advanced CSS and JavaScript techniques. The animation and interactive features sections were particularly useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Charlotte Scott",
+        "userOccupation": "Front-End Engineer",
+        "review": "Great content and practical examples. The course was detailed and covered complex concepts in a clear manner.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Liam Young",
+        "userOccupation": "UX Designer",
+        "review": "The course provided valuable insights into advanced CSS and JavaScript. The final project was a great opportunity to apply what was learned.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Amelia King",
+        "userOccupation": "Creative Technologist",
+        "review": "Very thorough and engaging. The lessons on performance optimization and interactive features were particularly helpful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Mason Wright",
+        "userOccupation": "Web Designer",
+        "review": "A fantastic course for those looking to deepen their knowledge of CSS and JavaScript. The advanced animations section was especially insightful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Harper Martinez",
+        "userOccupation": "Front-End Developer",
+        "review": "Informative and well-structured. The course covered a wide range of advanced topics and provided practical applications.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ethan Lewis",
+        "userOccupation": "Product Designer",
+        "review": "Excellent content for mastering advanced design techniques. The focus on interactive features and performance was very useful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ella Johnson",
+        "userOccupation": "Web Development Intern",
+        "review": "A great course with clear explanations and practical exercises. The advanced CSS and JavaScript techniques were very valuable.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "Mastering Responsive Web Design",
+    "instructorName": "Sophia Evans",
+    "rating": 4.8,
+    "price": 89.99,
+    "description": "Master the art of responsive web design with this comprehensive course, focusing on creating websites that look and function perfectly across all devices and screen sizes.",
+    "imageUrl": "https://example.com/mastering-responsive-web-design.jpg",
+    "lessons": [
+      {
+        "question": "What is responsive web design?",
+        "answer": "Learn the principles and techniques behind designing websites that adapt to different screen sizes and devices."
+      },
+      {
+        "question": "Using media queries effectively",
+        "answer": "How to use CSS media queries to create responsive layouts and styles."
+      },
+      {
+        "question": "Fluid grids and flexible images",
+        "answer": "Techniques for using fluid grids and flexible images to ensure your design scales correctly."
+      },
+      {
+        "question": "Responsive typography",
+        "answer": "Best practices for making typography responsive to enhance readability on various devices."
+      },
+      {
+        "question": "Creating mobile-first designs",
+        "answer": "Approaches for designing websites with a mobile-first mindset to improve user experience on smaller screens."
+      },
+      {
+        "question": "Responsive navigation design",
+        "answer": "Strategies for designing navigation menus that work well on both desktop and mobile devices."
+      },
+      {
+        "question": "Testing responsive designs",
+        "answer": "How to test and optimize your responsive designs across different devices and browsers."
+      },
+      {
+        "question": "Performance optimization for responsive sites",
+        "answer": "Techniques for optimizing the performance of responsive websites to ensure fast loading times."
+      },
+      {
+        "question": "Integrating responsive design with frameworks",
+        "answer": "Using responsive design techniques with popular frameworks like Bootstrap or Foundation."
+      },
+      {
+        "question": "Final Project: Build a Fully Responsive Website",
+        "answer": "Apply the concepts learned to create a fully responsive website that looks great on all devices."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Responsive Design Principles",
+      "Media Queries",
+      "Fluid Grids",
+      "Flexible Images",
+      "Responsive Typography",
+      "Mobile-First Design",
+      "Responsive Navigation",
+      "Performance Optimization"
+    ],
+    "reviews": [
+      {
+        "userName": "Daniel Smith",
+        "userOccupation": "Web Developer",
+        "review": "A comprehensive course that covers all aspects of responsive design. The lessons on mobile-first design and performance optimization were particularly helpful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Isabella Brown",
+        "userOccupation": "Front-End Developer",
+        "review": "Very detailed and practical. The course provided clear instructions and useful tips for creating responsive websites.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Oliver Martinez",
+        "userOccupation": "UI Designer",
+        "review": "Great course for mastering responsive web design. The final project was a fantastic way to put the skills into practice.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Charlotte Wilson",
+        "userOccupation": "Web Designer",
+        "review": "Informative and engaging. The focus on testing and optimizing responsive designs was particularly valuable.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Liam Davis",
+        "userOccupation": "Front-End Engineer",
+        "review": "The course provided a solid foundation in responsive design principles. The lessons on responsive typography were very insightful.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Ava Thompson",
+        "userOccupation": "Graphic Designer",
+        "review": "A thorough course with practical applications. The sections on integrating responsive design with frameworks were especially useful.",
+        "rating": 4.7
+      },
+      {
+        "userName": "Ethan Harris",
+        "userOccupation": "Web Developer Intern",
+        "review": "Great content and examples. The course helped me understand how to create websites that work well on all devices.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Mia Garcia",
+        "userOccupation": "UX/UI Designer",
+        "review": "An excellent course for anyone looking to improve their responsive design skills. The tips on performance optimization were particularly helpful.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "courseType": "Web Design",
+    "courseName": "Web Design with Figma",
+    "instructorName": "Alexander Scott",
+    "rating": 4.9,
+    "price": 109.99,
+    "description": "Learn how to design stunning websites using Figma, a popular design tool. This course covers everything from basic UI design to advanced prototyping techniques.",
+    "imageUrl": "https://example.com/web-design-with-figma.jpg",
+    "lessons": [
+      {
+        "question": "Introduction to Figma",
+        "answer": "Get started with Figma and learn about its features and interface."
+      },
+      {
+        "question": "Designing user interfaces in Figma",
+        "answer": "Techniques for creating effective user interfaces using Figma's design tools."
+      },
+      {
+        "question": "Using Figma components and styles",
+        "answer": "How to use components and styles to streamline your design process in Figma."
+      },
+      {
+        "question": "Creating interactive prototypes",
+        "answer": "Learn how to build interactive prototypes to demonstrate user flows and interactions."
+      },
+      {
+        "question": "Collaborative design with Figma",
+        "answer": "How to work collaboratively on design projects using Figma's sharing and commenting features."
+      },
+      {
+        "question": "Designing responsive layouts in Figma",
+        "answer": "Techniques for designing responsive layouts that adapt to different screen sizes."
+      },
+      {
+        "question": "Design systems and libraries",
+        "answer": "Creating and managing design systems and libraries in Figma to ensure consistency across your projects."
+      },
+      {
+        "question": "Exporting assets and handoff",
+        "answer": "How to export design assets and prepare files for handoff to developers."
+      },
+      {
+        "question": "Integrating Figma with other tools",
+        "answer": "How to integrate Figma with tools like Slack, Jira, and others to enhance your workflow."
+      },
+      {
+        "question": "Final Project: Design a Complete Website with Figma",
+        "answer": "Apply what you've learned to design a complete and functional website using Figma."
+      }
+    ],
+    "courseDuration": "10 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Figma Basics",
+      "UI Design",
+      "Interactive Prototypes",
+      "Collaborative Design",
+      "Responsive Layouts",
+      "Design Systems",
+      "Asset Exporting",
+      "Tool Integration"
+    ],
+    "reviews": [
+      {
+        "userName": "Sophie Adams",
+        "userOccupation": "UI Designer",
+        "review": "An exceptional course for mastering Figma. The lessons on interactive prototypes and design systems were particularly insightful.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Benjamin Lee",
+        "userOccupation": "Product Designer",
+        "review": "Highly recommended for anyone looking to improve their Figma skills. The course was well-structured and comprehensive.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Emma Walker",
+        "userOccupation": "Front-End Developer",
+        "review": "Great content and practical exercises. The course provided a solid understanding of Figma and how to use it for web design.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Oliver Turner",
+        "userOccupation": "Web Designer",
+        "review": "Very detailed and useful. The collaborative design section was particularly valuable for team projects.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Charlotte Miller",
+        "userOccupation": "UX/UI Designer",
+        "review": "A fantastic course for learning Figma. The final project was a great way to apply all the skills learned.",
+        "rating": 4.9
+      },
+      {
+        "userName": "James Collins",
+        "userOccupation": "Graphic Designer",
+        "review": "The course covered everything from basic to advanced Figma techniques. The lessons on responsive design were very practical.",
+        "rating": 4.8
+      },
+      {
+        "userName": "Isabella Reed",
+        "userOccupation": "Web Design Intern",
+        "review": "Very informative and engaging. The course helped me gain confidence in using Figma for web design.",
+        "rating": 4.9
+      },
+      {
+        "userName": "Liam Murphy",
+        "userOccupation": "Front-End Developer",
+        "review": "Excellent course for mastering Figma's design and prototyping capabilities. The tool integration section was a nice bonus.",
+        "rating": 4.9
+      }
+    ]
+  },
+
+  {
+    "courseType": "Figma",
+    "courseName": "Figma Essentials: A Designer's Guide",
+    "instructorName": "Alice Turner",
+    "rating": 4.8,
+    "price": 59.99,
+    "description": "Dive into Figma with this essentials course designed for both beginners and intermediate users. Learn the key features and best practices to create compelling designs efficiently.",
+    "imageUrl": "https://example.com/figma-essentials.jpg",
+    "lessons": [
+      {
+        "question": "Getting Started with Figma",
+        "answer": "Introduction to Figma’s interface, tools, and setup for a smooth start."
+      },
+      {
+        "question": "Creating Basic Shapes and Layouts",
+        "answer": "Learn how to create and manipulate basic shapes and layouts."
+      },
+      {
+        "question": "Working with Text and Typography",
+        "answer": "Understand how to use Figma’s text tools and typography features effectively."
+      },
+      {
+        "question": "Utilizing Components and Variants",
+        "answer": "Explore how to create and manage reusable components and variants."
+      },
+      {
+        "question": "Prototyping in Figma",
+        "answer": "Learn how to build interactive prototypes to demonstrate your designs."
+      },
+      {
+        "question": "Collaborating in Figma",
+        "answer": "Discover how to collaborate with team members in real-time."
+      },
+      {
+        "question": "Design Systems in Figma",
+        "answer": "Understand how to build and maintain a design system using Figma."
+      },
+      {
+        "question": "Advanced Figma Techniques",
+        "answer": "Explore advanced techniques for designing more complex interfaces."
+      },
+      {
+        "question": "Exporting and Sharing Designs",
+        "answer": "Learn the best practices for exporting and sharing your designs."
+      },
+      {
+        "question": "Troubleshooting Common Issues",
+        "answer": "Identify and solve common issues encountered in Figma."
+      }
+    ],
+    "courseDuration": "4 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Figma Basics",
+      "Shape Creation",
+      "Typography",
+      "Components",
+      "Prototyping",
+      "Collaboration",
+      "Design Systems",
+      "Advanced Techniques"
+    ],
+    "reviews": [
+      {
+        "userName": "Michael Smith",
+        "userOccupation": "Graphic Designer",
+        "review": "A fantastic introduction to Figma! The course covered everything from the basics to advanced features with clear explanations.",
+        "rating": 5
+      },
+      {
+        "userName": "Laura Johnson",
+        "userOccupation": "UX/UI Designer",
+        "review": "Very comprehensive and well-structured. Perfect for anyone looking to master Figma quickly.",
+        "rating": 4
+      },
+      {
+        "userName": "Kevin Brown",
+        "userOccupation": "Freelance Designer",
+        "review": "Great course with practical insights. The prototyping section was particularly useful.",
+        "rating": 4
+      },
+      {
+        "userName": "Emily Davis",
+        "userOccupation": "Web Developer",
+        "review": "The course was detailed and easy to follow. I especially liked the lessons on components and design systems.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Figma",
+    "courseName": "Mastering Figma: From Design to Prototyping",
+    "instructorName": "James Lee",
+    "rating": 4.9,
+    "price": 79.99,
+    "description": "This advanced course is designed for those who want to take their Figma skills to the next level. Learn advanced techniques, build complex prototypes, and streamline your design process.",
+    "imageUrl": "https://example.com/mastering-figma.jpg",
+    "lessons": [
+      {
+        "question": "Advanced Figma Features Overview",
+        "answer": "Explore advanced features in Figma that enhance your design workflow."
+      },
+      {
+        "question": "Building Complex Prototypes",
+        "answer": "Learn how to create intricate prototypes with multiple interactions."
+      },
+      {
+        "question": "Designing Responsive Layouts",
+        "answer": "Understand how to design layouts that adapt to various screen sizes."
+      },
+      {
+        "question": "Collaborative Design Techniques",
+        "answer": "Discover advanced methods for collaborating with team members and clients."
+      },
+      {
+        "question": "Creating Design Systems",
+        "answer": "Build a robust design system to ensure consistency across your projects."
+      },
+      {
+        "question": "Integrating Figma with Other Tools",
+        "answer": "Learn how to integrate Figma with tools like Slack, JIRA, and GitHub."
+      },
+      {
+        "question": "Optimizing Your Design Workflow",
+        "answer": "Tips and tricks to streamline your design process and improve efficiency."
+      },
+      {
+        "question": "Analyzing and Improving Your Designs",
+        "answer": "Techniques for analyzing your designs and making data-driven improvements."
+      },
+      {
+        "question": "Exporting Assets and Prototypes",
+        "answer": "Best practices for exporting assets and prototypes for development."
+      },
+      {
+        "question": "Troubleshooting Advanced Issues",
+        "answer": "Solve complex issues and challenges encountered in Figma."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Advanced Features",
+      "Complex Prototypes",
+      "Responsive Layouts",
+      "Collaborative Techniques",
+      "Design Systems",
+      "Tool Integration",
+      "Workflow Optimization",
+      "Design Analysis"
+    ],
+    "reviews": [
+      {
+        "userName": "Sophia Martinez",
+        "userOccupation": "Product Designer",
+        "review": "An excellent course for advanced Figma users. The content was in-depth and highly relevant to my work.",
+        "rating": 5
+      },
+      {
+        "userName": "Daniel Wilson",
+        "userOccupation": "UX Researcher",
+        "review": "Very informative and practical. The lessons on integrating Figma with other tools were particularly helpful.",
+        "rating": 4
+      },
+      {
+        "userName": "Olivia Taylor",
+        "userOccupation": "Visual Designer",
+        "review": "Great course! The advanced prototyping techniques were exactly what I needed to improve my design skills.",
+        "rating": 5
+      },
+      {
+        "userName": "Ethan Clark",
+        "userOccupation": "UI Designer",
+        "review": "The course offered a lot of value with its detailed approach to design systems and workflow optimization.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Figma",
+    "courseName": "Figma for UI/UX Design",
+    "instructorName": "Rachel Adams",
+    "rating": 4.7,
+    "price": 69.99,
+    "description": "This course focuses on using Figma for UI/UX design, covering the entire design process from wireframes to high-fidelity prototypes. Ideal for those looking to create user-centric designs using Figma.",
+    "imageUrl": "https://example.com/figma-ui-ux.jpg",
+    "lessons": [
+      {
+        "question": "Introduction to UI/UX Design",
+        "answer": "Learn the fundamentals of UI/UX design and how Figma fits into the process."
+      },
+      {
+        "question": "Creating Wireframes",
+        "answer": "Understand how to create wireframes to outline the structure of your designs."
+      },
+      {
+        "question": "Designing Mockups",
+        "answer": "Learn how to turn wireframes into detailed mockups in Figma."
+      },
+      {
+        "question": "Building Interactive Prototypes",
+        "answer": "Explore how to create interactive prototypes to simulate user interactions."
+      },
+      {
+        "question": "User Testing and Feedback",
+        "answer": "Learn techniques for conducting user tests and incorporating feedback into your designs."
+      },
+      {
+        "question": "Designing for Mobile and Web",
+        "answer": "Understand how to design responsive interfaces for both mobile and web platforms."
+      },
+      {
+        "question": "Using Components and Libraries",
+        "answer": "Explore how to use and create components and design libraries in Figma."
+      },
+      {
+        "question": "Collaborating on Design Projects",
+        "answer": "Learn best practices for collaborating with team members and stakeholders in Figma."
+      },
+      {
+        "question": "Presenting Your Designs",
+        "answer": "Techniques for effectively presenting your designs to clients or stakeholders."
+      },
+      {
+        "question": "Exporting and Handoff to Development",
+        "answer": "Best practices for exporting assets and preparing designs for handoff to developers."
+      }
+    ],
+    "courseDuration": "5 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "UI/UX Fundamentals",
+      "Wireframing",
+      "Mockups",
+      "Prototyping",
+      "User Testing",
+      "Responsive Design",
+      "Components",
+      "Collaboration"
+    ],
+    "reviews": [
+      {
+        "userName": "Isabella White",
+        "userOccupation": "UI Designer",
+        "review": "Great course for UI/UX designers! The lessons were well-structured and covered everything from wireframes to prototypes.",
+        "rating": 5
+      },
+      {
+        "userName": "James Anderson",
+        "userOccupation": "UX Researcher",
+        "review": "The course provided a comprehensive overview of using Figma for UI/UX design. Highly recommend for anyone in the field.",
+        "rating": 4
+      },
+      {
+        "userName": "Charlotte Lewis",
+        "userOccupation": "Product Designer",
+        "review": "Very informative with practical insights on using Figma for designing user-centric interfaces.",
+        "rating": 4
+      },
+      {
+        "userName": "Oliver Robinson",
+        "userOccupation": "Graphic Designer",
+        "review": "I appreciated the focus on both mobile and web design. The course was engaging and filled with useful tips.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Figma",
+    "courseName": "Figma Advanced Techniques",
+    "instructorName": "Emma Wilson",
+    "rating": 4.9,
+    "price": 89.99,
+    "description": "Take your Figma skills to the next level with this advanced course. Explore in-depth techniques and features to enhance your design workflow and create more complex and dynamic designs.",
+    "imageUrl": "https://example.com/figma-advanced-techniques.jpg",
+    "lessons": [
+      {
+        "question": "Advanced Figma Tools Overview",
+        "answer": "A deep dive into the advanced tools and features available in Figma."
+      },
+      {
+        "question": "Mastering Components and Variants",
+        "answer": "Learn advanced techniques for managing and using components and variants."
+      },
+      {
+        "question": "Creating Complex Prototypes",
+        "answer": "Build and manage complex prototypes with multiple interactions and states."
+      },
+      {
+        "question": "Design Systems and Tokens",
+        "answer": "Implement design systems and use design tokens for consistent and scalable designs."
+      },
+      {
+        "question": "Utilizing Plugins and Integrations",
+        "answer": "Explore useful Figma plugins and integrations to extend functionality and streamline your workflow."
+      },
+      {
+        "question": "Animating Designs in Figma",
+        "answer": "Learn how to create animations and transitions within Figma prototypes."
+      },
+      {
+        "question": "Designing with Constraints",
+        "answer": "Utilize constraints and auto-layout features to create responsive and adaptive designs."
+      },
+      {
+        "question": "Customizing Design Libraries",
+        "answer": "Create and manage custom design libraries to enhance your design process."
+      },
+      {
+        "question": "Collaborating with Teams Efficiently",
+        "answer": "Advanced strategies for collaborating and managing team projects in Figma."
+      },
+      {
+        "question": "Troubleshooting Advanced Issues",
+        "answer": "Identify and resolve advanced issues and challenges in Figma."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Advanced Tools",
+      "Components",
+      "Prototypes",
+      "Design Systems",
+      "Plugins",
+      "Animations",
+      "Constraints",
+      "Design Libraries"
+    ],
+    "reviews": [
+      {
+        "userName": "Mia Clark",
+        "userOccupation": "Senior UI Designer",
+        "review": "An excellent course for mastering advanced Figma techniques. The content was in-depth and very useful for my design projects.",
+        "rating": 5
+      },
+      {
+        "userName": "Liam Walker",
+        "userOccupation": "UX/UI Designer",
+        "review": "This course took my Figma skills to a new level. The lessons on animations and design systems were particularly insightful.",
+        "rating": 5
+      },
+      {
+        "userName": "Ava Martinez",
+        "userOccupation": "Creative Director",
+        "review": "Fantastic course with advanced techniques that really enhance the design process. Highly recommended for experienced designers.",
+        "rating": 4
+      },
+      {
+        "userName": "Noah Lewis",
+        "userOccupation": "Product Designer",
+        "review": "The advanced features and troubleshooting tips were very helpful. This course is perfect for anyone looking to master Figma.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Figma",
+    "courseName": "Figma Essentials for Beginners",
+    "instructorName": "Sophia Green",
+    "rating": 4.6,
+    "price": 49.99,
+    "description": "This course is perfect for beginners who want to get started with Figma. It covers the essential tools and features needed to create basic designs and prototypes, making it ideal for those new to design or Figma.",
+    "imageUrl": "https://example.com/figma-essentials.jpg",
+    "lessons": [
+      {
+        "question": "What is Figma?",
+        "answer": "An overview of Figma and its capabilities as a design tool."
+      },
+      {
+        "question": "Navigating the Figma Interface",
+        "answer": "Learn how to navigate the Figma interface and use its core features."
+      },
+      {
+        "question": "Creating Frames and Artboards",
+        "answer": "Understand how to create and manage frames and artboards for your designs."
+      },
+      {
+        "question": "Using Shapes and Text",
+        "answer": "Learn how to use basic shapes and text tools to create designs."
+      },
+      {
+        "question": "Applying Styles and Effects",
+        "answer": "Explore how to apply styles, effects, and colors to your designs."
+      },
+      {
+        "question": "Basic Prototyping Techniques",
+        "answer": "Create simple prototypes to simulate user interactions and flows."
+      },
+      {
+        "question": "Collaborating with Team Members",
+        "answer": "Learn how to collaborate with others using Figma's sharing and commenting features."
+      },
+      {
+        "question": "Exporting Your Designs",
+        "answer": "Understand how to export your designs in various formats for use in other applications."
+      },
+      {
+        "question": "Creating Design Components",
+        "answer": "Learn how to create reusable components to streamline your design process."
+      },
+      {
+        "question": "Organizing Your Design Files",
+        "answer": "Best practices for organizing and managing your design files and assets."
+      }
+    ],
+    "courseDuration": "4 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Figma Basics",
+      "Frames",
+      "Shapes",
+      "Text",
+      "Styling",
+      "Prototyping",
+      "Collaboration",
+      "Exporting"
+    ],
+    "reviews": [
+      {
+        "userName": "Emma Johnson",
+        "userOccupation": "Graphic Designer",
+        "review": "A great introduction to Figma. The course was well-organized and easy to follow.",
+        "rating": 4
+      },
+      {
+        "userName": "Mason Davis",
+        "userOccupation": "UX Designer",
+        "review": "Perfect for beginners. It covers all the basics and gets you up and running with Figma quickly.",
+        "rating": 5
+      },
+      {
+        "userName": "Olivia Martinez",
+        "userOccupation": "UI Designer",
+        "review": "The course was clear and concise, providing a solid foundation in Figma. Highly recommended for those new to the tool.",
+        "rating": 4
+      },
+      {
+        "userName": "Lucas Taylor",
+        "userOccupation": "Web Designer",
+        "review": "An excellent course for getting started with Figma. The practical examples were particularly helpful.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Figma",
+    "courseName": "Figma for Advanced UI Design",
+    "instructorName": "Ava Carter",
+    "rating": 4.8,
+    "price": 89.99,
+    "description": "This advanced course delves into complex UI design techniques using Figma. It covers advanced features and workflows to help you create professional-grade designs and streamline your design process.",
+    "imageUrl": "https://example.com/figma-advanced-ui.jpg",
+    "lessons": [
+      {
+        "question": "Advanced Layout Techniques",
+        "answer": "Learn advanced layout techniques to create sophisticated UI designs."
+      },
+      {
+        "question": "Using Design Systems",
+        "answer": "Implement and manage design systems for consistency across projects."
+      },
+      {
+        "question": "Creating and Managing Components",
+        "answer": "Advanced techniques for creating and managing components and variants in Figma."
+      },
+      {
+        "question": "Dynamic Prototyping",
+        "answer": "Explore dynamic prototyping features to create more interactive and complex prototypes."
+      },
+      {
+        "question": "Integrating with Other Tools",
+        "answer": "Learn how to integrate Figma with other design and development tools."
+      },
+      {
+        "question": "Designing Responsive Interfaces",
+        "answer": "Techniques for designing responsive and adaptive interfaces for different devices."
+      },
+      {
+        "question": "Advanced Animation Techniques",
+        "answer": "Create advanced animations and transitions to enhance your prototypes."
+      },
+      {
+        "question": "Collaboration and Handoff",
+        "answer": "Advanced strategies for collaborating with teams and preparing designs for handoff."
+      },
+      {
+        "question": "Version Control in Figma",
+        "answer": "Learn how to use version control features to manage design changes and iterations."
+      },
+      {
+        "question": "Best Practices for Complex Projects",
+        "answer": "Best practices for managing and executing complex design projects in Figma."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Advanced Layout",
+      "Design Systems",
+      "Components",
+      "Prototyping",
+      "Tool Integration",
+      "Responsive Design",
+      "Animation",
+      "Collaboration",
+      "Version Control"
+    ],
+    "reviews": [
+      {
+        "userName": "Zoe Wilson",
+        "userOccupation": "Senior UI Designer",
+        "review": "An excellent advanced course with in-depth coverage of Figma's advanced features. The lessons were highly relevant and practical.",
+        "rating": 5
+      },
+      {
+        "userName": "Ethan Brown",
+        "userOccupation": "UX Designer",
+        "review": "This course significantly improved my skills in Figma. The focus on advanced techniques and collaboration was especially valuable.",
+        "rating": 5
+      },
+      {
+        "userName": "Lily Smith",
+        "userOccupation": "Product Designer",
+        "review": "Great course for mastering advanced UI design in Figma. The practical tips and advanced techniques were very useful.",
+        "rating": 4
+      },
+      {
+        "userName": "Mia Johnson",
+        "userOccupation": "Visual Designer",
+        "review": "A comprehensive course that covers everything you need to know about advanced UI design in Figma. Worth every penny.",
+        "rating": 5
+      }
+    ]
+  },
+
+  {
+    "courseType": "Animation",
+    "courseName": "Introduction to Animation Principles",
+    "instructorName": "Michael Thompson",
+    "rating": 4.7,
+    "price": 69.99,
+    "description": "This course introduces the fundamental principles of animation. Learn about the key techniques and theories behind creating smooth and compelling animations. Ideal for beginners who want to understand the basics of animation and start creating their own animations.",
+    "imageUrl": "https://example.com/animation-intro.jpg",
+    "lessons": [
+      {
+        "question": "What is animation?",
+        "answer": "The process of creating the illusion of movement by displaying a series of individual frames."
+      },
+      {
+        "question": "What is the principle of squash and stretch?",
+        "answer": "A principle that gives a sense of weight and flexibility by exaggerating the shape of objects in motion."
+      },
+      {
+        "question": "What is anticipation in animation?",
+        "answer": "The preparation for an action, which makes the subsequent action more believable and effective."
+      },
+      {
+        "question": "What is staging in animation?",
+        "answer": "The presentation of an idea so that it is clear to the audience, including how the action is framed and how characters are positioned."
+      },
+      {
+        "question": "What is straight-ahead action?",
+        "answer": "A technique where each frame is drawn in sequence, creating a more spontaneous and fluid motion."
+      },
+      {
+        "question": "What is pose-to-pose animation?",
+        "answer": "A technique where key poses are created first, and then in-between frames are added to fill in the motion."
+      },
+      {
+        "question": "What is follow-through and overlapping action?",
+        "answer": "Principles that describe how different parts of an object or character continue to move after the main action has stopped."
+      },
+      {
+        "question": "What is slow in and slow out?",
+        "answer": "A principle where objects accelerate and decelerate smoothly at the beginning and end of their motion."
+      },
+      {
+        "question": "What is arc in animation?",
+        "answer": "The curved trajectory that objects follow in natural motion, making the movement more realistic."
+      },
+      {
+        "question": "What is secondary action?",
+        "answer": "Additional actions that support the main action and add depth to the animation."
+      }
+    ],
+    "courseDuration": "5 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Animation Principles",
+      "Squash and Stretch",
+      "Anticipation",
+      "Staging",
+      "Straight-Ahead Action",
+      "Pose-to-Pose",
+      "Follow-Through",
+      "Slow In and Slow Out",
+      "Arc",
+      "Secondary Action"
+    ],
+    "reviews": [
+      {
+        "userName": "Lucas Evans",
+        "userOccupation": "Animator",
+        "review": "A fantastic introduction to animation principles. The course is well-structured and provides a solid foundation for beginners.",
+        "rating": 5
+      },
+      {
+        "userName": "Mia Clark",
+        "userOccupation": "Illustrator",
+        "review": "Great course for understanding the basics of animation. The explanations are clear, and the examples are very helpful.",
+        "rating": 4
+      },
+      {
+        "userName": "Oliver Brown",
+        "userOccupation": "Graphic Designer",
+        "review": "Very informative course. The principles of animation are explained in an easy-to-understand way. Perfect for someone new to animation.",
+        "rating": 4
+      },
+      {
+        "userName": "Sophia Turner",
+        "userOccupation": "Multimedia Artist",
+        "review": "Excellent course for beginners. The practical exercises helped solidify my understanding of animation principles.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "Advanced Animation Techniques",
+    "instructorName": "Daniel Lee",
+    "rating": 4.9,
+    "price": 99.99,
+    "description": "Dive deeper into advanced animation techniques with this comprehensive course. Learn about complex animation workflows, advanced effects, and how to create high-quality animations for various applications. Perfect for those who already have a basic understanding of animation and want to take their skills to the next level.",
+    "imageUrl": "https://example.com/animation-advanced.jpg",
+    "lessons": [
+      {
+        "question": "What is character rigging?",
+        "answer": "The process of creating a skeleton structure for a character to enable movement and animation."
+      },
+      {
+        "question": "What is motion capture?",
+        "answer": "A technique of recording the movement of objects or people to create realistic animations."
+      },
+      {
+        "question": "What is particle animation?",
+        "answer": "A method of animating effects like smoke, fire, or rain using particles."
+      },
+      {
+        "question": "What are advanced shading techniques?",
+        "answer": "Techniques for creating complex shading effects to enhance the realism of animations."
+      },
+      {
+        "question": "What is keyframe animation?",
+        "answer": "The process of creating keyframes to define important points of motion and using them to generate intermediate frames."
+      },
+      {
+        "question": "What is path animation?",
+        "answer": "Animating objects along a predefined path or trajectory."
+      },
+      {
+        "question": "What is camera movement in animation?",
+        "answer": "Techniques for animating camera angles and movements to enhance storytelling."
+      },
+      {
+        "question": "What are advanced rigging techniques?",
+        "answer": "Techniques for creating more sophisticated rigs with complex control systems for better animation control."
+      },
+      {
+        "question": "What is lip-sync animation?",
+        "answer": "Animating characters' mouth movements to match spoken dialogue."
+      },
+      {
+        "question": "What is compositing in animation?",
+        "answer": "The process of combining different visual elements from separate sources into a single, cohesive animation."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Character Rigging",
+      "Motion Capture",
+      "Particle Animation",
+      "Shading Techniques",
+      "Keyframe Animation",
+      "Path Animation",
+      "Camera Movement",
+      "Advanced Rigging",
+      "Lip-Sync Animation",
+      "Compositing"
+    ],
+    "reviews": [
+      {
+        "userName": "Ethan Wright",
+        "userOccupation": "Senior Animator",
+        "review": "An outstanding course for advancing your animation skills. The techniques covered are invaluable for creating high-quality animations.",
+        "rating": 5
+      },
+      {
+        "userName": "Isabella Scott",
+        "userOccupation": "Animation Director",
+        "review": "A thorough and detailed course on advanced animation techniques. Highly recommended for those looking to push their animation skills further.",
+        "rating": 5
+      },
+      {
+        "userName": "Aiden Miller",
+        "userOccupation": "Visual Effects Artist",
+        "review": "Great course with in-depth coverage of advanced techniques. The practical examples and exercises were very useful.",
+        "rating": 4
+      },
+      {
+        "userName": "Charlotte Green",
+        "userOccupation": "3D Animator",
+        "review": "The course is well-organized and covers complex topics effectively. A must-take for serious animators looking to enhance their skills.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "2D Animation Fundamentals",
+    "instructorName": "Sarah Wilson",
+    "rating": 4.6,
+    "price": 79.99,
+    "description": "Explore the core techniques and principles of 2D animation with this comprehensive course. From traditional hand-drawn methods to digital animation tools, this course will guide you through creating your own 2D animations with confidence and skill.",
+    "imageUrl": "https://example.com/2d-animation-fundamentals.jpg",
+    "lessons": [
+      {
+        "question": "What are the basics of 2D animation?",
+        "answer": "Fundamental principles include squash and stretch, anticipation, and timing, applied to 2D assets."
+      },
+      {
+        "question": "How do you create a storyboard?",
+        "answer": "A storyboard is a sequence of drawings representing the shots planned for an animation."
+      },
+      {
+        "question": "What tools are used for 2D animation?",
+        "answer": "Common tools include Adobe Animate, Toon Boom Harmony, and TVPaint."
+      },
+      {
+        "question": "What is frame-by-frame animation?",
+        "answer": "A technique where each frame is drawn individually to create the illusion of movement."
+      },
+      {
+        "question": "What is tweening?",
+        "answer": "Tweening involves creating intermediate frames between two keyframes to smooth the transition."
+      },
+      {
+        "question": "How do you handle character movement?",
+        "answer": "Use principles like follow-through and overlapping action to create realistic movement."
+      },
+      {
+        "question": "What is timing in animation?",
+        "answer": "Timing refers to the number of frames taken for an action, affecting the speed and feel of the movement."
+      },
+      {
+        "question": "What is a walk cycle?",
+        "answer": "A repeating animation sequence that simulates walking by showing the legs and body in motion."
+      },
+      {
+        "question": "What are animatics?",
+        "answer": "Animatics are rough versions of an animation, combining storyboards with timing to plan the final animation."
+      },
+      {
+        "question": "How do you add sound to animation?",
+        "answer": "Sound is synced with animation by using audio editing software to align dialogue and sound effects with the animated sequence."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "2D Animation Principles",
+      "Storyboarding",
+      "Animation Tools",
+      "Frame-by-Frame Animation",
+      "Tweening",
+      "Character Movement",
+      "Timing",
+      "Walk Cycles",
+      "Animatics",
+      "Sound Synchronization"
+    ],
+    "reviews": [
+      {
+        "userName": "James Carter",
+        "userOccupation": "2D Animator",
+        "review": "An excellent course for anyone starting with 2D animation. The lessons are clear and practical, making complex concepts easier to grasp.",
+        "rating": 4
+      },
+      {
+        "userName": "Emma Harris",
+        "userOccupation": "Animation Student",
+        "review": "Great introduction to 2D animation. The course covers all the essentials and provides good examples and exercises.",
+        "rating": 4
+      },
+      {
+        "userName": "Liam Anderson",
+        "userOccupation": "Freelance Animator",
+        "review": "Very informative and well-structured course. Perfect for brushing up on basic 2D animation skills.",
+        "rating": 5
+      },
+      {
+        "userName": "Olivia Martin",
+        "userOccupation": "Graphic Designer",
+        "review": "The course provided a solid foundation in 2D animation. The practical exercises were particularly helpful.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "3D Animation for Beginners",
+    "instructorName": "David Lee",
+    "rating": 4.8,
+    "price": 89.99,
+    "description": "Dive into the world of 3D animation with this beginner-friendly course. Learn how to create and animate 3D models using industry-standard software. Perfect for those new to 3D animation and looking to build their skills from the ground up.",
+    "imageUrl": "https://example.com/3d-animation-beginners.jpg",
+    "lessons": [
+      {
+        "question": "What is 3D animation?",
+        "answer": "The process of creating three-dimensional moving images, often using specialized software."
+      },
+      {
+        "question": "What software is used for 3D animation?",
+        "answer": "Common software includes Blender, Autodesk Maya, and Cinema 4D."
+      },
+      {
+        "question": "How do you create a 3D model?",
+        "answer": "3D modeling involves creating a digital representation of an object using vertices, edges, and faces."
+      },
+      {
+        "question": "What is rigging in 3D animation?",
+        "answer": "Rigging is the process of creating a skeleton for a 3D model to enable movement and animation."
+      },
+      {
+        "question": "What is keyframe animation in 3D?",
+        "answer": "Keyframe animation involves setting specific frames with key poses and letting the software interpolate the movement between them."
+      },
+      {
+        "question": "What is texturing?",
+        "answer": "Texturing involves applying images or materials to the surface of a 3D model to give it color and detail."
+      },
+      {
+        "question": "How do you create realistic lighting in 3D?",
+        "answer": "Use various lighting techniques and settings in 3D software to simulate natural or artificial light sources."
+      },
+      {
+        "question": "What is rendering?",
+        "answer": "Rendering is the process of generating the final image or animation from a 3D model using the software's rendering engine."
+      },
+      {
+        "question": "What are particle systems?",
+        "answer": "Particle systems are used to create complex effects like fire, smoke, and rain in 3D animations."
+      },
+      {
+        "question": "How do you add motion to 3D models?",
+        "answer": "Use animation tools and techniques to move and manipulate 3D models along a timeline."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "3D Animation Basics",
+      "3D Modeling",
+      "Rigging",
+      "Keyframe Animation",
+      "Texturing",
+      "Lighting",
+      "Rendering",
+      "Particle Systems",
+      "Motion",
+      "Software Proficiency"
+    ],
+    "reviews": [
+      {
+        "userName": "Ethan Wright",
+        "userOccupation": "3D Animator",
+        "review": "A fantastic introduction to 3D animation. The course covers everything you need to get started with 3D modeling and animation.",
+        "rating": 5
+      },
+      {
+        "userName": "Isabella Scott",
+        "userOccupation": "Animation Director",
+        "review": "Very comprehensive and well-structured course. The practical exercises were particularly useful for understanding 3D animation concepts.",
+        "rating": 5
+      },
+      {
+        "userName": "Aiden Miller",
+        "userOccupation": "3D Modeler",
+        "review": "Great course for beginners. It provides a solid foundation in 3D animation and covers essential tools and techniques.",
+        "rating": 4
+      },
+      {
+        "userName": "Charlotte Green",
+        "userOccupation": "Visual Effects Artist",
+        "review": "The course is well-organized and provides clear explanations of 3D animation principles. Highly recommended for newcomers.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "Advanced 3D Animation Techniques",
+    "instructorName": "Rachel Adams",
+    "rating": 4.7,
+    "price": 129.99,
+    "description": "Take your 3D animation skills to the next level with advanced techniques in modeling, rigging, and animation. This course delves into complex topics such as character animation, motion capture integration, and advanced rendering techniques.",
+    "imageUrl": "https://example.com/advanced-3d-animation.jpg",
+    "lessons": [
+      {
+        "question": "What are advanced rigging techniques?",
+        "answer": "Advanced rigging includes creating complex skeletons and control systems for intricate character movements."
+      },
+      {
+        "question": "How do you use motion capture data?",
+        "answer": "Motion capture data can be imported and used to drive 3D character animations for realistic movements."
+      },
+      {
+        "question": "What is inverse kinematics?",
+        "answer": "Inverse kinematics is a method used to calculate the movement of a character's limbs to achieve a desired position."
+      },
+      {
+        "question": "How do you create facial animations?",
+        "answer": "Facial animations are created using blend shapes or facial rigs to animate expressions and lip-syncing."
+      },
+      {
+        "question": "What are advanced rendering techniques?",
+        "answer": "Techniques include global illumination, caustics, and complex shaders to achieve photorealistic results."
+      },
+      {
+        "question": "How do you optimize 3D animations?",
+        "answer": "Optimization involves reducing polygon count, simplifying textures, and using efficient rendering settings."
+      },
+      {
+        "question": "What is procedural animation?",
+        "answer": "Procedural animation generates animations algorithmically rather than manually, allowing for dynamic and adaptive movements."
+      },
+      {
+        "question": "How do you integrate 3D animations with live-action footage?",
+        "answer": "Use techniques like camera tracking and compositing to blend 3D animations seamlessly with live-action elements."
+      },
+      {
+        "question": "What are particle effects in 3D animation?",
+        "answer": "Particle effects simulate natural phenomena like smoke, fire, and explosions using particle systems."
+      },
+      {
+        "question": "How do you animate complex mechanical objects?",
+        "answer": "Mechanical animations involve creating detailed rigs and animations for machinery, vehicles, or robots."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Advanced Rigging",
+      "Motion Capture Integration",
+      "Inverse Kinematics",
+      "Facial Animation",
+      "Advanced Rendering",
+      "Optimization",
+      "Procedural Animation",
+      "Live-Action Integration",
+      "Particle Effects",
+      "Mechanical Animation"
+    ],
+    "reviews": [
+      {
+        "userName": "Sophia Evans",
+        "userOccupation": "Senior Animator",
+        "review": "An excellent course for those looking to enhance their 3D animation skills. The advanced techniques and practical exercises were invaluable.",
+        "rating": 5
+      },
+      {
+        "userName": "Noah Thompson",
+        "userOccupation": "Visual Effects Supervisor",
+        "review": "Highly detailed and comprehensive. The course provides deep insights into advanced animation techniques and industry practices.",
+        "rating": 4
+      },
+      {
+        "userName": "Mia Roberts",
+        "userOccupation": "Animation Studio Lead",
+        "review": "Great course for advanced animators. It covers complex topics thoroughly with practical applications and examples.",
+        "rating": 5
+      },
+      {
+        "userName": "Liam Johnson",
+        "userOccupation": "3D Modeler",
+        "review": "Very informative with a focus on advanced techniques. A must-take for anyone serious about pushing their 3D animation skills further.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "Stop Motion Animation Essentials",
+    "instructorName": "Lucas Taylor",
+    "rating": 4.5,
+    "price": 69.99,
+    "description": "Learn the art of stop motion animation in this essentials course. Discover the techniques for creating engaging stop motion animations using models, puppets, and everyday objects.",
+    "imageUrl": "https://example.com/stop-motion-essentials.jpg",
+    "lessons": [
+      {
+        "question": "What is stop motion animation?",
+        "answer": "Stop motion is a technique where physical objects are photographed frame-by-frame to create the illusion of movement."
+      },
+      {
+        "question": "What materials are used in stop motion?",
+        "answer": "Common materials include clay, puppets, and everyday objects, which are manipulated and photographed to create animation."
+      },
+      {
+        "question": "How do you set up a stop motion studio?",
+        "answer": "Set up a controlled environment with a stable camera, proper lighting, and a work area for manipulating objects."
+      },
+      {
+        "question": "What is frame rate in stop motion?",
+        "answer": "Frame rate refers to the number of frames captured per second, affecting the smoothness of the animation."
+      },
+      {
+        "question": "How do you plan a stop motion animation?",
+        "answer": "Create a storyboard and plan each scene carefully to ensure a coherent and smooth animation process."
+      },
+      {
+        "question": "What is the process of shooting a stop motion animation?",
+        "answer": "Capture each frame with incremental changes to the objects, then compile the frames into a continuous sequence."
+      },
+      {
+        "question": "How do you edit stop motion footage?",
+        "answer": "Use video editing software to assemble the frames, adjust timing, and add audio or effects."
+      },
+      {
+        "question": "What are common challenges in stop motion?",
+        "answer": "Challenges include maintaining consistency, managing frame rates, and dealing with lighting issues."
+      },
+      {
+        "question": "How do you add sound to stop motion?",
+        "answer": "Add sound effects and music during the post-production phase to enhance the animation."
+      },
+      {
+        "question": "What are some tips for effective stop motion animation?",
+        "answer": "Ensure stable camera setups, use precise movements, and pay attention to detail for smooth and engaging animations."
+      }
+    ],
+    "courseDuration": "5 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Stop Motion Techniques",
+      "Material Handling",
+      "Studio Setup",
+      "Frame Rate Management",
+      "Storyboarding",
+      "Shooting Process",
+      "Editing",
+      "Sound Integration",
+      "Problem Solving",
+      "Attention to Detail"
+    ],
+    "reviews": [
+      {
+        "userName": "Ava Nelson",
+        "userOccupation": "Stop Motion Animator",
+        "review": "A fantastic introduction to stop motion animation. The course covers all the essentials and provides practical insights into the animation process.",
+        "rating": 4
+      },
+      {
+        "userName": "Oliver Brown",
+        "userOccupation": "Animation Enthusiast",
+        "review": "Great course for beginners. It explains the basics of stop motion clearly and provides helpful tips for creating your own animations.",
+        "rating": 4
+      },
+      {
+        "userName": "Emily Wilson",
+        "userOccupation": "Animator",
+        "review": "The course offers a solid foundation in stop motion. The practical exercises are engaging and useful for understanding the technique.",
+        "rating": 4
+      },
+      {
+        "userName": "Jacob Clark",
+        "userOccupation": "Film Student",
+        "review": "Very informative and well-structured. It covers the key aspects of stop motion animation and offers valuable hands-on experience.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Animation",
+    "courseName": "Motion Graphics Design",
+    "instructorName": "Hannah Miller",
+    "rating": 4.8,
+    "price": 99.99,
+    "description": "Unlock the power of motion graphics design in this comprehensive course. Learn how to create stunning animations for videos, advertisements, and presentations using industry-standard software.",
+    "imageUrl": "https://example.com/motion-graphics-design.jpg",
+    "lessons": [
+      {
+        "question": "What are motion graphics?",
+        "answer": "Motion graphics are animated visual elements used in videos, advertisements, and multimedia projects to convey information or enhance storytelling."
+      },
+      {
+        "question": "What software is used for motion graphics?",
+        "answer": "Common software includes Adobe After Effects, Adobe Premiere Pro, and Cinema 4D."
+      },
+      {
+        "question": "How do you create a motion graphics project?",
+        "answer": "Start by planning your project, designing elements, animating them using keyframes, and then rendering the final output."
+      },
+      {
+        "question": "What are keyframes?",
+        "answer": "Keyframes are points in time where you set specific values for properties like position, scale, and opacity to create animation."
+      },
+      {
+        "question": "How do you use effects and presets?",
+        "answer": "Effects and presets are applied to layers to enhance animations with visual effects like transitions, text animations, and motion blur."
+      },
+      {
+        "question": "What is composition in motion graphics?",
+        "answer": "Composition is the arrangement of visual elements in a scene or project to achieve a cohesive and aesthetically pleasing result."
+      },
+      {
+        "question": "How do you integrate motion graphics with video?",
+        "answer": "Combine motion graphics with video footage using layering and blending techniques to enhance visual storytelling."
+      },
+      {
+        "question": "What are expressions in motion graphics?",
+        "answer": "Expressions are scripts used to automate animations and create complex effects without manual keyframing."
+      },
+      {
+        "question": "How do you create dynamic typography animations?",
+        "answer": "Animate text by adjusting properties like position, scale, and rotation to create engaging and visually appealing typography."
+      },
+      {
+        "question": "What is rendering in motion graphics?",
+        "answer": "Rendering is the process of generating the final animation output from your motion graphics project, often involving export settings and quality adjustments."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Motion Graphics Basics",
+      "Animation Software",
+      "Project Planning",
+      "Keyframe Animation",
+      "Effects and Presets",
+      "Composition",
+      "Video Integration",
+      "Expressions",
+      "Typography Animation",
+      "Rendering"
+    ],
+    "reviews": [
+      {
+        "userName": "Lucas Wright",
+        "userOccupation": "Motion Graphics Designer",
+        "review": "An excellent course for mastering motion graphics. The lessons are clear, and the practical exercises are very helpful for understanding the techniques.",
+        "rating": 5
+      },
+      {
+        "userName": "Sofia Lee",
+        "userOccupation": "Graphic Designer",
+        "review": "Great course with a comprehensive overview of motion graphics design. The practical tips and examples are very useful for applying the concepts.",
+        "rating": 4
+      },
+      {
+        "userName": "Mason Scott",
+        "userOccupation": "Video Editor",
+        "review": "The course covers all essential aspects of motion graphics. The instructor's explanations are clear, and the course content is well-organized.",
+        "rating": 5
+      },
+      {
+        "userName": "Avery Johnson",
+        "userOccupation": "Creative Director",
+        "review": "Highly informative and practical. The course provides a solid foundation in motion graphics design and offers valuable insights into industry practices.",
+        "rating": 4
+      }
+    ]
+  },
+
+  {
+    "courseType": "SQL",
+    "courseName": "SQL for Data Analysis",
+    "instructorName": "John Smith",
+    "rating": 4.6,
+    "price": 99.99,
+    "description": "Learn how to use SQL to analyze and visualize data effectively. This course covers complex queries, data manipulation, and advanced functions to help you uncover insights and make data-driven decisions.",
+    "imageUrl": "https://example.com/sql-for-data-analysis.jpg",
+    "lessons": [
+      {
+        "question": "What is SQL?",
+        "answer": "SQL (Structured Query Language) is a language used to manage and manipulate relational databases."
+      },
+      {
+        "question": "How do you write a basic SELECT query?",
+        "answer": "A basic SELECT query retrieves data from one or more tables using the SELECT statement followed by the column names and table name."
+      },
+      {
+        "question": "What are JOIN operations?",
+        "answer": "JOIN operations combine rows from two or more tables based on related columns, such as INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN."
+      },
+      {
+        "question": "How do you use GROUP BY?",
+        "answer": "GROUP BY is used to aggregate data based on one or more columns, often used with aggregate functions like COUNT, SUM, and AVG."
+      },
+      {
+        "question": "What is a subquery?",
+        "answer": "A subquery is a query nested inside another query, used to retrieve intermediate results that can be used in the main query."
+      },
+      {
+        "question": "How do you create and manage indexes?",
+        "answer": "Indexes improve the speed of data retrieval operations. They can be created using the CREATE INDEX statement and managed with various options."
+      },
+      {
+        "question": "What are SQL aggregate functions?",
+        "answer": "Aggregate functions perform calculations on multiple values and return a single value, such as COUNT, SUM, AVG, MIN, and MAX."
+      },
+      {
+        "question": "How do you handle NULL values?",
+        "answer": "NULL values represent missing or unknown data. They can be handled using IS NULL, IS NOT NULL, and COALESCE functions."
+      },
+      {
+        "question": "What are stored procedures?",
+        "answer": "Stored procedures are precompiled SQL statements stored in the database that can be executed with parameters to perform various tasks."
+      },
+      {
+        "question": "How do you perform data manipulation with SQL?",
+        "answer": "Data manipulation includes INSERT, UPDATE, and DELETE operations to add, modify, or remove data from tables."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Basic SQL Queries",
+      "JOIN Operations",
+      "GROUP BY",
+      "Subqueries",
+      "Indexing",
+      "Aggregate Functions",
+      "Handling NULL Values",
+      "Stored Procedures",
+      "Data Manipulation"
+    ],
+    "reviews": [
+      {
+        "userName": "Emma Davis",
+        "userOccupation": "Data Analyst",
+        "review": "A well-structured course that covers essential SQL concepts for data analysis. The practical examples are very helpful.",
+        "rating": 4
+      },
+      {
+        "userName": "James Wilson",
+        "userOccupation": "Business Intelligence Developer",
+        "review": "Great course for improving SQL skills. The lessons are clear, and the exercises are challenging and informative.",
+        "rating": 5
+      },
+      {
+        "userName": "Olivia Martinez",
+        "userOccupation": "Data Scientist",
+        "review": "The course provides a thorough understanding of SQL for data analysis. Highly recommend for those looking to enhance their SQL capabilities.",
+        "rating": 4
+      },
+      {
+        "userName": "Liam Johnson",
+        "userOccupation": "Database Administrator",
+        "review": "An excellent resource for mastering SQL. The course covers a wide range of topics with practical applications.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "SQL",
+    "courseName": "SQL Performance Tuning",
+    "instructorName": "Sarah Lee",
+    "rating": 4.8,
+    "price": 149.99,
+    "description": "Optimize your SQL queries and improve database performance with this in-depth course on SQL performance tuning. Learn techniques to analyze query performance, identify bottlenecks, and implement best practices for efficient SQL operations.",
+    "imageUrl": "https://example.com/sql-performance-tuning.jpg",
+    "lessons": [
+      {
+        "question": "What is SQL performance tuning?",
+        "answer": "SQL performance tuning involves optimizing SQL queries and database operations to improve performance and efficiency."
+      },
+      {
+        "question": "How do you analyze query performance?",
+        "answer": "Query performance can be analyzed using execution plans, query profiling, and performance metrics to identify slow queries."
+      },
+      {
+        "question": "What are indexes and how do they improve performance?",
+        "answer": "Indexes speed up data retrieval by allowing faster access to rows in a table based on indexed columns."
+      },
+      {
+        "question": "How do you optimize JOIN operations?",
+        "answer": "Optimize JOIN operations by using appropriate join types, minimizing data scanned, and ensuring indexes on join columns."
+      },
+      {
+        "question": "What is query caching?",
+        "answer": "Query caching stores the results of frequent queries to reduce processing time for repeated executions."
+      },
+      {
+        "question": "How do you handle slow queries?",
+        "answer": "Slow queries can be optimized by analyzing execution plans, rewriting queries, and ensuring proper indexing."
+      },
+      {
+        "question": "What are best practices for SQL performance tuning?",
+        "answer": "Best practices include using proper indexing, writing efficient queries, optimizing database schema, and monitoring performance regularly."
+      },
+      {
+        "question": "How do you monitor database performance?",
+        "answer": "Monitor performance using database performance tools, monitoring queries, and tracking resource usage to identify issues."
+      },
+      {
+        "question": "What is database normalization?",
+        "answer": "Normalization is the process of organizing database schema to reduce redundancy and improve data integrity."
+      },
+      {
+        "question": "How do you perform database maintenance?",
+        "answer": "Database maintenance includes tasks like updating statistics, rebuilding indexes, and purging old data to ensure optimal performance."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Performance Tuning",
+      "Query Analysis",
+      "Index Optimization",
+      "JOIN Optimization",
+      "Query Caching",
+      "Slow Query Handling",
+      "Best Practices",
+      "Database Monitoring",
+      "Normalization",
+      "Database Maintenance"
+    ],
+    "reviews": [
+      {
+        "userName": "Daniel Brown",
+        "userOccupation": "Database Engineer",
+        "review": "An in-depth course on SQL performance tuning. The lessons are comprehensive and provide practical techniques for optimizing queries.",
+        "rating": 5
+      },
+      {
+        "userName": "Sophia Garcia",
+        "userOccupation": "Data Engineer",
+        "review": "Highly valuable for improving SQL performance. The course covers all essential aspects and includes useful real-world examples.",
+        "rating": 4
+      },
+      {
+        "userName": "Ethan Scott",
+        "userOccupation": "Database Administrator",
+        "review": "Excellent course with detailed insights into performance tuning. The practical tips and case studies are very helpful.",
+        "rating": 5
+      },
+      {
+        "userName": "Isabella Martinez",
+        "userOccupation": "Systems Analyst",
+        "review": "Great course for understanding SQL performance tuning. It provides clear explanations and effective techniques for optimizing queries.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "SQL",
+    "courseName": "Introduction to SQL for Beginners",
+    "instructorName": "Michael Johnson",
+    "rating": 4.4,
+    "price": 59.99,
+    "description": "Get started with SQL in this beginner-friendly course. Learn the basics of SQL, including how to write queries, work with databases, and perform data manipulation tasks. Perfect for those new to database management and SQL programming.",
+    "imageUrl": "https://example.com/intro-to-sql.jpg",
+    "lessons": [
+      {
+        "question": "What is SQL?",
+        "answer": "SQL (Structured Query Language) is a standard programming language for managing and manipulating relational databases."
+      },
+      {
+        "question": "How do you write a SELECT statement?",
+        "answer": "A SELECT statement retrieves data from a database. It includes the SELECT keyword followed by column names and the FROM clause specifying the table."
+      },
+      {
+        "question": "What are the basic SQL data types?",
+        "answer": "Basic SQL data types include INTEGER, VARCHAR, DATE, FLOAT, and BOOLEAN, which define the type of data that can be stored in columns."
+      },
+      {
+        "question": "How do you insert data into a table?",
+        "answer": "Use the INSERT INTO statement followed by the table name and VALUES clause to add new rows of data to a table."
+      },
+      {
+        "question": "How do you update existing data?",
+        "answer": "Use the UPDATE statement to modify existing data in a table, specifying the SET clause for the columns to be updated and the WHERE clause to filter rows."
+      },
+      {
+        "question": "What is the DELETE statement?",
+        "answer": "The DELETE statement removes rows from a table based on a specified condition in the WHERE clause."
+      },
+      {
+        "question": "How do you create a new table?",
+        "answer": "Use the CREATE TABLE statement to define a new table, including column names, data types, and constraints."
+      },
+      {
+        "question": "What are SQL constraints?",
+        "answer": "Constraints are rules applied to columns or tables to enforce data integrity, such as PRIMARY KEY, FOREIGN KEY, and UNIQUE constraints."
+      },
+      {
+        "question": "How do you use the WHERE clause?",
+        "answer": "The WHERE clause filters records based on specified conditions, allowing you to retrieve only the data that meets the criteria."
+      },
+      {
+        "question": "What are SQL functions?",
+        "answer": "SQL functions perform operations on data, such as mathematical calculations, string manipulation, and date formatting. Examples include COUNT, AVG, and CONCAT."
+      }
+    ],
+    "courseDuration": "4 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Basic SQL Queries",
+      "Data Types",
+      "Data Insertion",
+      "Data Update",
+      "Data Deletion",
+      "Table Creation",
+      "Constraints",
+      "Filtering Records",
+      "SQL Functions"
+    ],
+    "reviews": [
+      {
+        "userName": "Alice Johnson",
+        "userOccupation": "Junior Data Analyst",
+        "review": "A great introduction to SQL for beginners. The course is well-structured and easy to follow, with clear explanations and practical exercises.",
+        "rating": 4
+      },
+      {
+        "userName": "Ryan Brown",
+        "userOccupation": "IT Support Specialist",
+        "review": "Perfect for those new to SQL. The lessons are simple and straightforward, making it easy to grasp the fundamentals.",
+        "rating": 4
+      },
+      {
+        "userName": "Mia Wilson",
+        "userOccupation": "Database Assistant",
+        "review": "An excellent starting point for learning SQL. The course covers all basic concepts with hands-on practice to reinforce learning.",
+        "rating": 4
+      },
+      {
+        "userName": "Noah Davis",
+        "userOccupation": "Systems Administrator",
+        "review": "Very informative for beginners. The course includes practical examples and exercises that help in understanding SQL basics effectively.",
+        "rating": 4
+      }
+    ]
+  },
+
+  {
+    "courseType": "SQL",
+    "courseName": "Advanced SQL Techniques",
+    "instructorName": "Laura Green",
+    "rating": 4.7,
+    "price": 129.99,
+    "description": "Dive deeper into advanced SQL techniques with this comprehensive course. Learn about complex queries, performance optimization, and advanced data manipulation to master SQL and handle intricate database scenarios.",
+    "imageUrl": "https://example.com/advanced-sql-techniques.jpg",
+    "lessons": [
+      {
+        "question": "What are Common Table Expressions (CTEs)?",
+        "answer": "CTEs are temporary result sets defined within a query that can be referenced multiple times within the query."
+      },
+      {
+        "question": "How do you use window functions?",
+        "answer": "Window functions perform calculations across a set of table rows related to the current row. Examples include ROW_NUMBER(), RANK(), and SUM()."
+      },
+      {
+        "question": "What are stored procedures and how do you use them?",
+        "answer": "Stored procedures are precompiled SQL statements that can be executed with parameters to perform complex operations and improve performance."
+      },
+      {
+        "question": "How do you implement database transactions?",
+        "answer": "Transactions group multiple SQL statements into a single unit of work that can be committed or rolled back as a whole to ensure data integrity."
+      },
+      {
+        "question": "What is normalization and why is it important?",
+        "answer": "Normalization is the process of organizing data to reduce redundancy and improve data integrity by dividing tables into related parts."
+      },
+      {
+        "question": "How do you use dynamic SQL?",
+        "answer": "Dynamic SQL involves constructing and executing SQL statements at runtime based on variable input or conditions."
+      },
+      {
+        "question": "What is indexing and how does it affect performance?",
+        "answer": "Indexing improves query performance by creating a data structure that allows faster retrieval of rows from a table."
+      },
+      {
+        "question": "How do you handle concurrency in SQL?",
+        "answer": "Concurrency control ensures that multiple transactions can be processed simultaneously without causing data conflicts or integrity issues."
+      },
+      {
+        "question": "What are database triggers?",
+        "answer": "Triggers are special procedures that automatically execute in response to certain events on a table or view, such as INSERT, UPDATE, or DELETE operations."
+      },
+      {
+        "question": "How do you optimize complex queries?",
+        "answer": "Optimize complex queries by analyzing execution plans, reducing subquery usage, and ensuring proper indexing."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "12%",
+    "skills": [
+      "Common Table Expressions (CTEs)",
+      "Window Functions",
+      "Stored Procedures",
+      "Database Transactions",
+      "Normalization",
+      "Dynamic SQL",
+      "Indexing",
+      "Concurrency Control",
+      "Database Triggers",
+      "Query Optimization"
+    ],
+    "reviews": [
+      {
+        "userName": "Eleanor Clark",
+        "userOccupation": "Senior Database Developer",
+        "review": "An excellent course for mastering advanced SQL concepts. The content is detailed, and the practical exercises are very useful.",
+        "rating": 5
+      },
+      {
+        "userName": "Oliver Harris",
+        "userOccupation": "Data Architect",
+        "review": "Great insights into advanced SQL techniques. The course covers complex topics thoroughly and provides valuable hands-on experience.",
+        "rating": 4
+      },
+      {
+        "userName": "Sophia Adams",
+        "userOccupation": "Business Intelligence Analyst",
+        "review": "Highly recommended for those looking to advance their SQL skills. The lessons on optimization and transactions were particularly valuable.",
+        "rating": 5
+      },
+      {
+        "userName": "Liam Walker",
+        "userOccupation": "Database Administrator",
+        "review": "The course is well-organized and covers all the advanced topics in SQL. Practical examples and exercises enhance the learning experience.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "SQL",
+    "courseName": "SQL Data Modeling and Design",
+    "instructorName": "Rachel Miller",
+    "rating": 4.5,
+    "price": 109.99,
+    "description": "Understand the principles of SQL data modeling and design with this course. Learn how to create efficient database schemas, design relationships, and apply best practices for database design to build scalable and maintainable databases.",
+    "imageUrl": "https://example.com/sql-data-modeling.jpg",
+    "lessons": [
+      {
+        "question": "What is data modeling?",
+        "answer": "Data modeling is the process of designing data structures and relationships to effectively store and manage data."
+      },
+      {
+        "question": "How do you create an Entity-Relationship Diagram (ERD)?",
+        "answer": "An ERD visually represents entities, relationships, and attributes in a database schema to illustrate how data is related."
+      },
+      {
+        "question": "What are normalization forms?",
+        "answer": "Normalization forms are guidelines for structuring database tables to minimize redundancy and improve data integrity, such as 1NF, 2NF, and 3NF."
+      },
+      {
+        "question": "How do you define primary and foreign keys?",
+        "answer": "Primary keys uniquely identify each record in a table, while foreign keys establish relationships between tables by referring to primary keys in other tables."
+      },
+      {
+        "question": "What is denormalization and when is it used?",
+        "answer": "Denormalization is the process of combining tables to improve query performance, often used when normalized designs result in complex queries."
+      },
+      {
+        "question": "How do you design for scalability?",
+        "answer": "Design for scalability by considering data growth, indexing strategies, and database partitioning to ensure the database can handle increased load."
+      },
+      {
+        "question": "What are best practices for database design?",
+        "answer": "Best practices include using meaningful names for tables and columns, defining clear relationships, and applying normalization principles."
+      },
+      {
+        "question": "How do you handle data integrity?",
+        "answer": "Ensure data integrity by applying constraints, such as primary keys, foreign keys, and unique constraints, to enforce data validity and consistency."
+      },
+      {
+        "question": "What are data modeling tools?",
+        "answer": "Data modeling tools help design and visualize database schemas, such as ER/Studio, Microsoft Visio, and Lucidchart."
+      },
+      {
+        "question": "How do you document your database design?",
+        "answer": "Document database design using diagrams, descriptions of entities and relationships, and data dictionaries to provide a comprehensive reference."
+      }
+    ],
+    "courseDuration": "5 hours",
+    "discountAmount": "8%",
+    "skills": [
+      "Data Modeling",
+      "Entity-Relationship Diagrams (ERD)",
+      "Normalization Forms",
+      "Primary and Foreign Keys",
+      "Denormalization",
+      "Scalability Design",
+      "Database Design Best Practices",
+      "Data Integrity",
+      "Data Modeling Tools",
+      "Database Documentation"
+    ],
+    "reviews": [
+      {
+        "userName": "Emma Lewis",
+        "userOccupation": "Data Analyst",
+        "review": "A thorough course on SQL data modeling and design. The lessons on normalization and ERD were particularly insightful.",
+        "rating": 4
+      },
+      {
+        "userName": "Aiden Wright",
+        "userOccupation": "Database Designer",
+        "review": "The course provided a solid understanding of data modeling principles. The practical exercises helped in applying the concepts effectively.",
+        "rating": 4
+      },
+      {
+        "userName": "Mia Robinson",
+        "userOccupation": "Software Engineer",
+        "review": "Great course for learning how to design and model databases. The content is well-structured and applicable to real-world scenarios.",
+        "rating": 5
+      },
+      {
+        "userName": "Lucas Young",
+        "userOccupation": "Data Architect",
+        "review": "Comprehensive and well-organized. The course covers all essential aspects of SQL data modeling with useful hands-on exercises.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "SQL",
+    "courseName": "SQL Performance Tuning and Optimization",
+    "instructorName": "David Wilson",
+    "rating": 4.8,
+    "price": 139.99,
+    "description": "Enhance your SQL performance skills with this course focused on tuning and optimization techniques. Learn how to analyze query performance, optimize SQL statements, and implement best practices to improve database efficiency.",
+    "imageUrl": "https://example.com/sql-performance-tuning.jpg",
+    "lessons": [
+      {
+        "question": "What are the key principles of SQL performance tuning?",
+        "answer": "Key principles include understanding query execution plans, indexing strategies, and reducing I/O operations."
+      },
+      {
+        "question": "How do you analyze query performance?",
+        "answer": "Analyze query performance using execution plans, SQL Profiler, and database monitoring tools to identify bottlenecks and inefficiencies."
+      },
+      {
+        "question": "What is indexing, and how does it affect performance?",
+        "answer": "Indexing improves query performance by creating a data structure that speeds up data retrieval, but it can also impact write operations."
+      },
+      {
+        "question": "How do you optimize complex joins?",
+        "answer": "Optimize complex joins by ensuring proper indexing, reducing the number of joins, and using efficient join types like INNER JOIN."
+      },
+      {
+        "question": "What is query caching and how does it help?",
+        "answer": "Query caching stores the result of a query to quickly return the result for subsequent identical queries, reducing query execution time."
+      },
+      {
+        "question": "How do you use partitioning to improve performance?",
+        "answer": "Partitioning divides a large table into smaller, manageable pieces based on specified criteria, improving query performance and manageability."
+      },
+      {
+        "question": "What are common performance issues and how do you resolve them?",
+        "answer": "Common issues include slow queries, excessive locking, and high I/O operations. Resolve them by optimizing queries, indexing, and managing transactions."
+      },
+      {
+        "question": "How do you optimize SQL queries for large datasets?",
+        "answer": "Optimize queries for large datasets by using indexing, minimizing subqueries, and optimizing joins to handle large volumes of data efficiently."
+      },
+      {
+        "question": "What tools are available for SQL performance tuning?",
+        "answer": "Tools include SQL Profiler, Performance Monitor, and third-party tools like SolarWinds Database Performance Analyzer."
+      },
+      {
+        "question": "How do you measure and monitor database performance?",
+        "answer": "Measure and monitor performance using metrics such as query response time, CPU usage, memory usage, and disk I/O to ensure optimal database operation."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Query Execution Plans",
+      "Indexing Strategies",
+      "Performance Analysis",
+      "Query Optimization",
+      "Query Caching",
+      "Partitioning",
+      "Performance Issues",
+      "Large Dataset Optimization",
+      "Performance Tuning Tools",
+      "Database Monitoring"
+    ],
+    "reviews": [
+      {
+        "userName": "Michael Scott",
+        "userOccupation": "Database Consultant",
+        "review": "Fantastic course for learning performance tuning. The lessons on indexing and query optimization were especially helpful.",
+        "rating": 5
+      },
+      {
+        "userName": "Olivia King",
+        "userOccupation": "Systems Administrator",
+        "review": "Highly detailed and practical. The course provides valuable insights into performance tuning and optimization techniques.",
+        "rating": 4
+      },
+      {
+        "userName": "Noah Martinez",
+        "userOccupation": "Database Analyst",
+        "review": "The course covers all crucial aspects of SQL performance tuning. The practical examples helped solidify my understanding.",
+        "rating": 5
+      },
+      {
+        "userName": "Emma Johnson",
+        "userOccupation": "Database Engineer",
+        "review": "Great course with a focus on real-world performance issues. The content is comprehensive and well-organized.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "SQL",
+    "courseName": "SQL for Data Science",
+    "instructorName": "Chris Taylor",
+    "rating": 4.6,
+    "price": 119.99,
+    "description": "Learn how to leverage SQL for data science with this course. Explore data extraction, transformation, and analysis techniques using SQL to gain insights and support data-driven decision-making.",
+    "imageUrl": "https://example.com/sql-for-data-science.jpg",
+    "lessons": [
+      {
+        "question": "How do you extract data using SQL?",
+        "answer": "Extract data using SQL SELECT statements to retrieve data from tables based on specified criteria."
+      },
+      {
+        "question": "What is data transformation and how is it performed in SQL?",
+        "answer": "Data transformation involves modifying data formats and structures using SQL functions, CASE statements, and JOIN operations."
+      },
+      {
+        "question": "How do you aggregate data in SQL?",
+        "answer": "Aggregate data using functions like SUM(), AVG(), COUNT(), and GROUP BY to summarize and analyze data sets."
+      },
+      {
+        "question": "What is data cleaning in SQL?",
+        "answer": "Data cleaning involves identifying and correcting errors or inconsistencies in data using SQL queries and functions."
+      },
+      {
+        "question": "How do you join multiple tables in SQL?",
+        "answer": "Join multiple tables using SQL JOIN operations, such as INNER JOIN, LEFT JOIN, and RIGHT JOIN, to combine related data."
+      },
+      {
+        "question": "How do you use subqueries for data analysis?",
+        "answer": "Use subqueries to perform nested queries that return intermediate results for further analysis and decision-making."
+      },
+      {
+        "question": "What are window functions and how are they used?",
+        "answer": "Window functions perform calculations across a set of rows related to the current row, useful for ranking, running totals, and moving averages."
+      },
+      {
+        "question": "How do you visualize SQL data?",
+        "answer": "Visualize SQL data by exporting results to tools like Excel or using SQL integration with visualization tools such as Tableau or Power BI."
+      },
+      {
+        "question": "What is the role of SQL in data science?",
+        "answer": "SQL plays a crucial role in data science by providing a means to extract, manipulate, and analyze data efficiently from relational databases."
+      },
+      {
+        "question": "How do you optimize SQL queries for data science tasks?",
+        "answer": "Optimize SQL queries by using indexes, reducing the number of joins, and applying appropriate data transformations to handle large datasets effectively."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Data Extraction",
+      "Data Transformation",
+      "Data Aggregation",
+      "Data Cleaning",
+      "Table Joins",
+      "Subqueries",
+      "Window Functions",
+      "Data Visualization",
+      "SQL for Data Science",
+      "Query Optimization"
+    ],
+    "reviews": [
+      {
+        "userName": "Sophia Harris",
+        "userOccupation": "Data Scientist",
+        "review": "This course is perfect for applying SQL in data science. The lessons on data transformation and aggregation were extremely useful.",
+        "rating": 5
+      },
+      {
+        "userName": "Daniel Lee",
+        "userOccupation": "Data Analyst",
+        "review": "A great course for learning SQL with a focus on data science. The content is practical and relevant to real-world data analysis tasks.",
+        "rating": 4
+      },
+      {
+        "userName": "Ava Davis",
+        "userOccupation": "Business Intelligence Developer",
+        "review": "Comprehensive and well-structured. The course provided valuable insights into using SQL for data science and supported my projects effectively.",
+        "rating": 5
+      },
+      {
+        "userName": "Jackson Moore",
+        "userOccupation": "Data Engineer",
+        "review": "Highly recommended for anyone looking to leverage SQL in data science. The practical examples and exercises were very helpful.",
+        "rating": 4
+      }
+    ]
+  },
+
+  {
+    "courseType": "Game Development",
+    "courseName": "Introduction to Game Development with Unity",
+    "instructorName": "Laura White",
+    "rating": 4.7,
+    "price": 149.99,
+    "description": "Dive into the world of game development with Unity, one of the most popular game engines. This course covers the basics of Unity, including scene creation, scripting, and game mechanics, to help you build your first game.",
+    "imageUrl": "https://example.com/unity-introduction.jpg",
+    "lessons": [
+      {
+        "question": "What is Unity and how is it used in game development?",
+        "answer": "Unity is a powerful game engine used to create both 2D and 3D games. It provides a suite of tools for game development, including scene creation, scripting, and asset management."
+      },
+      {
+        "question": "How do you set up a new project in Unity?",
+        "answer": "Set up a new project by launching Unity, selecting 'New Project', and choosing the project type (2D or 3D), then configure project settings such as resolution and target platform."
+      },
+      {
+        "question": "What are GameObjects and Components in Unity?",
+        "answer": "GameObjects are the fundamental objects in Unity that represent entities in the game. Components are scripts or attributes that define the behavior and properties of GameObjects."
+      },
+      {
+        "question": "How do you create and manipulate scenes in Unity?",
+        "answer": "Create and manipulate scenes by adding GameObjects, arranging them in the Scene view, and adjusting their properties using the Inspector window."
+      },
+      {
+        "question": "What is C# scripting in Unity?",
+        "answer": "C# scripting in Unity involves writing scripts to define game behavior, interactions, and logic. Scripts are attached to GameObjects to control their actions and responses."
+      },
+      {
+        "question": "How do you implement basic game mechanics?",
+        "answer": "Implement basic game mechanics by using Unity's physics engine, collision detection, and input handling to create interactive and responsive gameplay."
+      },
+      {
+        "question": "How do you create UI elements in Unity?",
+        "answer": "Create UI elements by using Unity's UI system, which includes tools for designing and managing user interfaces, such as buttons, text, and panels."
+      },
+      {
+        "question": "What are Unity's asset management tools?",
+        "answer": "Unity's asset management tools include the Asset Store, Project window, and Resources folder, which help organize and manage game assets such as textures, models, and audio."
+      },
+      {
+        "question": "How do you build and deploy a Unity game?",
+        "answer": "Build and deploy a Unity game by configuring build settings for your target platform, creating a build, and then exporting the game to run on different devices or operating systems."
+      },
+      {
+        "question": "What are common troubleshooting tips for Unity developers?",
+        "answer": "Common troubleshooting tips include checking the console for error messages, validating script logic, and ensuring all assets are correctly linked and configured."
+      }
+    ],
+    "courseDuration": "8 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "Unity Basics",
+      "Scene Creation",
+      "Scripting with C#",
+      "Game Mechanics",
+      "UI Design",
+      "Asset Management",
+      "Physics Engine",
+      "Collision Detection",
+      "Input Handling",
+      "Game Deployment"
+    ],
+    "reviews": [
+      {
+        "userName": "Emily Clark",
+        "userOccupation": "Game Developer",
+        "review": "Excellent course for beginners. The introduction to Unity was clear and comprehensive, with hands-on examples that helped me get started with game development.",
+        "rating": 5
+      },
+      {
+        "userName": "James Anderson",
+        "userOccupation": "Software Engineer",
+        "review": "Great course for understanding Unity basics. The lessons on scripting and game mechanics were particularly useful for my first game project.",
+        "rating": 4
+      },
+      {
+        "userName": "Sophia Adams",
+        "userOccupation": "Game Designer",
+        "review": "Very informative and well-structured. The course provided a solid foundation in Unity and game development principles. Highly recommended for newcomers.",
+        "rating": 4
+      },
+      {
+        "userName": "Liam Johnson",
+        "userOccupation": "Junior Game Developer",
+        "review": "A solid introduction to Unity with practical exercises. The course could benefit from more advanced topics, but it's excellent for getting started.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Game Development",
+    "courseName": "Advanced Game Development with Unreal Engine",
+    "instructorName": "Michael Brown",
+    "rating": 4.9,
+    "price": 199.99,
+    "description": "Take your game development skills to the next level with Unreal Engine. This advanced course covers complex topics such as advanced scripting, AI programming, and high-fidelity graphics to help you create professional-quality games.",
+    "imageUrl": "https://example.com/unreal-advanced.jpg",
+    "lessons": [
+      {
+        "question": "What is Unreal Engine and what are its advanced features?",
+        "answer": "Unreal Engine is a powerful game engine known for its high-fidelity graphics and advanced features, including Blueprints visual scripting, AI programming, and real-time rendering."
+      },
+      {
+        "question": "How do you implement advanced scripting in Unreal Engine?",
+        "answer": "Implement advanced scripting using Unreal Engine's Blueprint visual scripting system or C++ programming to create complex game logic and mechanics."
+      },
+      {
+        "question": "What are the best practices for AI programming in Unreal Engine?",
+        "answer": "Best practices for AI programming include using Behavior Trees for decision-making, implementing Navigation Meshes for pathfinding, and optimizing AI performance."
+      },
+      {
+        "question": "How do you create high-fidelity graphics in Unreal Engine?",
+        "answer": "Create high-fidelity graphics by leveraging Unreal Engine's advanced rendering techniques, including real-time ray tracing, dynamic lighting, and photorealistic textures."
+      },
+      {
+        "question": "What is the role of Blueprints in Unreal Engine?",
+        "answer": "Blueprints are a visual scripting system in Unreal Engine that allows developers to create game logic and interactions without writing code, making it easier to prototype and implement features."
+      },
+      {
+        "question": "How do you optimize game performance in Unreal Engine?",
+        "answer": "Optimize game performance by managing assets efficiently, using Level of Detail (LOD) techniques, and profiling the game to identify and address performance bottlenecks."
+      },
+      {
+        "question": "What are Unreal Engine's networking capabilities?",
+        "answer": "Unreal Engine offers robust networking capabilities for multiplayer games, including replication, client-server architecture, and networked physics."
+      },
+      {
+        "question": "How do you use Unreal Engine's asset pipeline?",
+        "answer": "Use Unreal Engine's asset pipeline to import, manage, and optimize game assets such as textures, models, and animations for use in your game projects."
+      },
+      {
+        "question": "What are common challenges in advanced game development with Unreal Engine?",
+        "answer": "Common challenges include managing complex assets, optimizing performance for various hardware, and ensuring smooth multiplayer experiences."
+      },
+      {
+        "question": "How do you deploy games developed with Unreal Engine?",
+        "answer": "Deploy games developed with Unreal Engine by packaging the game for your target platform and distributing it through platforms such as Steam, Epic Games Store, or console marketplaces."
+      }
+    ],
+    "courseDuration": "10 hours",
+    "discountAmount": "25%",
+    "skills": [
+      "Unreal Engine Basics",
+      "Advanced Scripting",
+      "AI Programming",
+      "High-Fidelity Graphics",
+      "Blueprints Visual Scripting",
+      "Game Optimization",
+      "Networking",
+      "Asset Management",
+      "Performance Profiling",
+      "Game Deployment"
+    ],
+    "reviews": [
+      {
+        "userName": "Aiden Thompson",
+        "userOccupation": "Senior Game Developer",
+        "review": "Exceptional course for advanced Unreal Engine users. The content on AI programming and high-fidelity graphics was particularly impressive.",
+        "rating": 5
+      },
+      {
+        "userName": "Olivia Turner",
+        "userOccupation": "Technical Artist",
+        "review": "A deep dive into Unreal Engine with practical examples. The course provided valuable insights into advanced features and performance optimization.",
+        "rating": 5
+      },
+      {
+        "userName": "Ethan Robinson",
+        "userOccupation": "Gameplay Programmer",
+        "review": "Highly detailed and thorough. The lessons on Blueprints and AI programming were very useful for my current projects.",
+        "rating": 4
+      },
+      {
+        "userName": "Isabella Martinez",
+        "userOccupation": "Game Designer",
+        "review": "Great course with a focus on professional-grade game development. The content is well-organized and covers advanced topics in-depth.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Game Development",
+    "courseName": "Creating 2D Games with Godot Engine",
+    "instructorName": "Alice Green",
+    "rating": 4.6,
+    "price": 129.99,
+    "description": "Learn how to create engaging 2D games using the Godot Engine. This course covers everything from setting up your project to creating sprites, animations, and game mechanics.",
+    "imageUrl": "https://example.com/godot-2d-games.jpg",
+    "lessons": [
+      {
+        "question": "What is Godot Engine and its advantages for 2D game development?",
+        "answer": "Godot Engine is an open-source game engine known for its ease of use and flexibility. It offers robust 2D game development features such as scene management, animation, and scripting."
+      },
+      {
+        "question": "How do you set up a new 2D project in Godot?",
+        "answer": "Create a new 2D project in Godot by selecting 'New Project', choosing the '2D' option, and configuring project settings like resolution and aspect ratio."
+      },
+      {
+        "question": "What are Nodes in Godot and how are they used?",
+        "answer": "Nodes are the fundamental building blocks in Godot, used to create and manage game elements. Nodes can be combined to form scenes, with each node handling different aspects like graphics, physics, or input."
+      },
+      {
+        "question": "How do you create and manage sprites in Godot?",
+        "answer": "Create sprites by importing image assets and using the Sprite node. Manage sprites by configuring their properties, including size, texture, and animation frames."
+      },
+      {
+        "question": "How do you implement animations in Godot?",
+        "answer": "Implement animations using the AnimationPlayer node, where you can create and manage animation sequences for various game elements like characters and objects."
+      },
+      {
+        "question": "What are Godot's scripting capabilities?",
+        "answer": "Godot uses GDScript, a Python-like language, for scripting game logic. You can also use VisualScript or C# for more complex scripting needs."
+      },
+      {
+        "question": "How do you handle user input in Godot?",
+        "answer": "Handle user input using the InputEvent system, where you can detect and respond to keyboard, mouse, and touchscreen inputs to control game actions and interactions."
+      },
+      {
+        "question": "How do you manage scenes and levels in Godot?",
+        "answer": "Manage scenes and levels by creating and organizing different scenes in the Godot editor. Use scene instancing to combine and reuse scenes in your game."
+      },
+      {
+        "question": "What are common performance optimization techniques in Godot?",
+        "answer": "Optimize performance by managing draw calls, reducing asset sizes, and using efficient coding practices. Profiling tools in Godot can help identify performance bottlenecks."
+      },
+      {
+        "question": "How do you export and deploy a game created in Godot?",
+        "answer": "Export your game by configuring export templates for your target platform and using Godot's export tools to package the game for distribution on various platforms."
+      }
+    ],
+    "courseDuration": "7 hours",
+    "discountAmount": "15%",
+    "skills": [
+      "Godot Basics",
+      "2D Game Design",
+      "Sprite Management",
+      "Animation",
+      "GDScript",
+      "User Input Handling",
+      "Scene Management",
+      "Performance Optimization",
+      "Exporting Games",
+      "Game Deployment"
+    ],
+    "reviews": [
+      {
+        "userName": "Sophie Wilson",
+        "userOccupation": "Game Developer",
+        "review": "A great introduction to 2D game development with Godot. The course is well-structured and the hands-on examples are very helpful.",
+        "rating": 4
+      },
+      {
+        "userName": "Daniel Lee",
+        "userOccupation": "Software Engineer",
+        "review": "Informative and practical. The lessons on sprites and animations were particularly useful for my game projects.",
+        "rating": 4
+      },
+      {
+        "userName": "Mia Roberts",
+        "userOccupation": "Junior Game Designer",
+        "review": "The course provided a solid foundation in using Godot for 2D games. The practical exercises helped me understand the engine better.",
+        "rating": 4
+      },
+      {
+        "userName": "Noah King",
+        "userOccupation": "Student",
+        "review": "Perfect for beginners. The course is easy to follow and covers all the basics of Godot engine for 2D game development.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Game Development",
+    "courseName": "Mastering 3D Game Development with Unreal Engine",
+    "instructorName": "David Smith",
+    "rating": 4.8,
+    "price": 249.99,
+    "description": "Master 3D game development with Unreal Engine. This course explores advanced 3D graphics, physics, and gameplay mechanics to help you create stunning 3D games.",
+    "imageUrl": "https://example.com/unreal-3d-master.jpg",
+    "lessons": [
+      {
+        "question": "What are the key features of Unreal Engine for 3D game development?",
+        "answer": "Unreal Engine provides advanced 3D rendering capabilities, including real-time ray tracing, dynamic lighting, and high-fidelity textures, essential for creating visually stunning 3D games."
+      },
+      {
+        "question": "How do you set up a new 3D project in Unreal Engine?",
+        "answer": "Set up a new 3D project by launching Unreal Engine, selecting 'New Project', and choosing '3D' as the project type. Configure settings such as project templates and initial assets."
+      },
+      {
+        "question": "What is the role of the Level Editor in Unreal Engine?",
+        "answer": "The Level Editor is used to create and modify game levels by placing and arranging objects, adjusting lighting, and configuring game logic within the editor."
+      },
+      {
+        "question": "How do you use Blueprints for advanced gameplay mechanics?",
+        "answer": "Use Blueprints to create complex gameplay mechanics by visually scripting interactions, events, and logic without writing code. Blueprints allow rapid prototyping and development."
+      },
+      {
+        "question": "How do you implement advanced physics and collision in Unreal Engine?",
+        "answer": "Implement advanced physics and collision using Unreal Engine's physics engine, which includes tools for simulating realistic interactions, collisions, and physics-based behaviors."
+      },
+      {
+        "question": "What techniques are used for creating realistic 3D environments?",
+        "answer": "Create realistic 3D environments using high-quality assets, dynamic lighting, post-processing effects, and techniques like environment blending and texture detailing."
+      },
+      {
+        "question": "How do you optimize 3D games in Unreal Engine?",
+        "answer": "Optimize 3D games by managing asset quality, using Level of Detail (LOD) models, optimizing shaders, and profiling performance to ensure smooth gameplay across different devices."
+      },
+      {
+        "question": "What is the importance of C++ in Unreal Engine development?",
+        "answer": "C++ is used for writing custom game code and extending engine functionality. It allows for deep integration with Unreal Engine and access to advanced features and optimizations."
+      },
+      {
+        "question": "How do you handle multiplayer functionality in Unreal Engine?",
+        "answer": "Handle multiplayer functionality using Unreal Engine's networking system, which includes replication, client-server architecture, and synchronization of game state across players."
+      },
+      {
+        "question": "How do you deploy and distribute 3D games created with Unreal Engine?",
+        "answer": "Deploy and distribute 3D games by configuring packaging settings for your target platform and using Unreal Engine's export tools to create a build for various platforms and marketplaces."
+      }
+    ],
+    "courseDuration": "12 hours",
+    "discountAmount": "30%",
+    "skills": [
+      "Unreal Engine Basics",
+      "3D Game Design",
+      "Level Editor",
+      "Blueprints",
+      "Advanced Physics",
+      "Realistic Environments",
+      "Performance Optimization",
+      "C++ Programming",
+      "Multiplayer Networking",
+      "Game Deployment"
+    ],
+    "reviews": [
+      {
+        "userName": "Jackson Taylor",
+        "userOccupation": "Lead Game Developer",
+        "review": "An excellent course for mastering 3D game development in Unreal Engine. The depth of content and practical examples were impressive.",
+        "rating": 5
+      },
+      {
+        "userName": "Emma Scott",
+        "userOccupation": "Game Artist",
+        "review": "Comprehensive and detailed. The course covered advanced topics thoroughly and provided valuable insights into high-quality 3D game creation.",
+        "rating": 5
+      },
+      {
+        "userName": "Lucas Harris",
+        "userOccupation": "Gameplay Programmer",
+        "review": "Very informative course with practical applications. The lessons on Blueprints and optimization were particularly beneficial for my projects.",
+        "rating": 4
+      },
+      {
+        "userName": "Ava Carter",
+        "userOccupation": "Game Designer",
+        "review": "Great for advanced developers. The course is well-structured and covers essential aspects of 3D game development in Unreal Engine.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "courseType": "Game Development",
+    "courseName": "Mobile Game Development with Cocos2d-x",
+    "instructorName": "Olivia Martinez",
+    "rating": 4.5,
+    "price": 139.99,
+    "description": "Learn how to develop mobile games using Cocos2d-x, a popular open-source framework. This course covers the essentials of creating and deploying mobile games with Cocos2d-x.",
+    "imageUrl": "https://example.com/cocos2d-mobile.jpg",
+    "lessons": [
+      {
+        "question": "What is Cocos2d-x and why use it for mobile game development?",
+        "answer": "Cocos2d-x is an open-source game development framework known for its ease of use and cross-platform capabilities. It provides tools and libraries for creating 2D mobile games efficiently."
+      },
+      {
+        "question": "How do you set up a new project in Cocos2d-x?",
+        "answer": "Set up a new project by installing Cocos2d-x, using the command-line tools to create a new project, and configuring project settings for your target platform."
+      },
+      {
+        "question": "How do you create and manage game scenes in Cocos2d-x?",
+        "answer": "Create and manage game scenes by using Cocos2d-x's scene and layer classes to organize game elements and control scene transitions and interactions."
+      },
+      {
+        "question": "What are the key components of Cocos2d-x for game development?",
+        "answer": "Key components include the Node class for managing game objects, Sprite class for rendering images, and Action class for animations and movement."
+      },
+      {
+        "question": "How do you implement touch and gesture controls in Cocos2d-x?",
+        "answer": "Implement touch and gesture controls using Cocos2d-x's event handling system, which allows you to detect and respond to user input such as taps, swipes, and pinches."
+      },
+      {
+        "question": "What are Cocos2d-x's support for animations?",
+        "answer": "Cocos2d-x supports animations through the Animation and Animate classes, which allow you to create and manage frame-by-frame animations for sprites and game objects."
+      },
+      {
+        "question": "How do you integrate audio in Cocos2d-x games?",
+        "answer": "Integrate audio using Cocos2d-x's audio engine to play sound effects and background music. You can control audio playback, volume, and other properties."
+      },
+      {
+        "question": "How do you optimize mobile games in Cocos2d-x?",
+        "answer": "Optimize mobile games by managing resources efficiently, reducing draw calls, and profiling the game to identify and address performance issues."
+      },
+      {
+        "question": "How do you build and deploy mobile games with Cocos2d-x?",
+        "answer": "Build and deploy mobile games by configuring platform-specific build settings and using Cocos2d-x's tools to generate APKs or app bundles for Android and iOS."
+      },
+      {
+        "question": "What are common troubleshooting tips for Cocos2d-x developers?",
+        "answer": "Common troubleshooting tips include checking log files for errors, verifying asset paths, and ensuring compatibility with different mobile devices and operating systems."
+      }
+    ],
+    "courseDuration": "6 hours",
+    "discountAmount": "10%",
+    "skills": [
+      "Cocos2d-x Basics",
+      "Mobile Game Design",
+      "Scene Management",
+      "Sprite Handling",
+      "Touch Controls",
+      "Animation",
+      "Audio Integration",
+      "Performance Optimization",
+      "Build and Deployment",
+      "Troubleshooting"
+    ],
+    "reviews": [
+      {
+        "userName": "Charlotte Thompson",
+        "userOccupation": "Mobile Game Developer",
+        "review": "A solid course for learning Cocos2d-x. The practical exercises were very helpful for understanding mobile game development.",
+        "rating": 4
+      },
+      {
+        "userName": "Liam Young",
+        "userOccupation": "Software Developer",
+        "review": "The course provides a good introduction to Cocos2d-x. It covers all the basics needed to get started with mobile game development.",
+        "rating": 4
+      },
+      {
+        "userName": "Amelia Clark",
+        "userOccupation": "Game Designer",
+        "review": "Useful for developers looking to get into mobile game development with Cocos2d-x. The content is well-organized and informative.",
+        "rating": 4
+      },
+      {
+        "userName": "Ethan Lewis",
+        "userOccupation": "Student",
+        "review": "Great for beginners. The course is easy to follow and covers essential topics for creating mobile games with Cocos2d-x.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "courseType": "Game Development",
+    "courseName": "VR Game Development with Unity",
+    "instructorName": "Mia Johnson",
+    "rating": 4.7,
+    "price": 179.99,
+    "description": "Explore the exciting world of virtual reality game development with Unity. This course covers VR basics, immersive interactions, and optimization techniques to create engaging VR experiences.",
+    "imageUrl": "https://example.com/vr-unity.jpg",
+    "lessons": [
+      {
+        "question": "What are the fundamentals of VR game development?",
+        "answer": "VR game development involves creating immersive experiences using VR hardware and software. It includes designing for 3D environments, managing user interactions, and optimizing performance for VR."
+      },
+      {
+        "question": "How do you set up a VR project in Unity?",
+        "answer": "Set up a VR project in Unity by installing the necessary VR SDKs (such as Oculus or SteamVR), configuring project settings for VR, and setting up VR camera rigs and controllers."
+      },
+      {
+        "question": "What are VR camera rigs and how are they used?",
+        "answer": "VR camera rigs are specialized camera setups that track the player's head movements and provide a 360-degree view. They are essential for creating immersive VR environments."
+      },
+      {
+        "question": "How do you implement VR interactions and controls?",
+        "answer": "Implement VR interactions using VR controllers and input systems. Create interactive elements by detecting controller input and responding to user actions in the VR environment."
+      },
+      {
+        "question": "What are best practices for designing VR environments?",
+        "answer": "Best practices include ensuring comfort and minimizing motion sickness by using smooth locomotion, maintaining a stable frame rate, and designing intuitive and accessible environments."
+      },
+      {
+        "question": "How do you handle performance optimization for VR?",
+        "answer": "Optimize VR performance by reducing draw calls, managing assets efficiently, and ensuring a high and consistent frame rate to avoid motion sickness and ensure smooth gameplay."
+      },
+      {
+        "question": "What are common VR user experience challenges?",
+        "answer": "Common challenges include motion sickness, controller latency, and ensuring that the VR experience is intuitive and comfortable for users."
+      },
+      {
+        "question": "How do you integrate VR audio into your Unity project?",
+        "answer": "Integrate VR audio by using spatial audio techniques to create realistic soundscapes that change based on the user's position and interactions within the VR environment."
+      },
+      {
+        "question": "What are the differences between VR and traditional game development?",
+        "answer": "VR game development requires additional considerations for immersion, user comfort, and performance optimization compared to traditional game development, which focuses on 2D or 3D screens."
+      },
+      {
+        "question": "How do you deploy VR games created with Unity?",
+        "answer": "Deploy VR games by configuring build settings for your target VR platform, testing the game on VR hardware, and distributing the game through VR marketplaces or platforms."
+      }
+    ],
+    "courseDuration": "9 hours",
+    "discountAmount": "20%",
+    "skills": [
+      "VR Basics",
+      "Unity VR Setup",
+      "VR Camera Rigs",
+      "Interactions and Controls",
+      "Environment Design",
+      "Performance Optimization",
+      "User Experience",
+      "Spatial Audio",
+      "VR Deployment",
+      "Comfort and Accessibility"
+    ],
+    "reviews": [
+      {
+        "userName": "Oliver Wilson",
+        "userOccupation": "VR Developer",
+        "review": "An excellent course for diving into VR game development with Unity. The content is detailed and provides practical insights into creating immersive VR experiences.",
+        "rating": 5
+      },
+      {
+        "userName": "Lily Brown",
+        "userOccupation": "Game Designer",
+        "review": "Very informative and well-structured. The course covers essential VR concepts and optimization techniques effectively.",
+        "rating": 4
+      },
+      {
+        "userName": "Jacob Davis",
+        "userOccupation": "Software Engineer",
+        "review": "Great course for learning about VR development. The lessons on VR interactions and performance optimization were particularly helpful.",
+        "rating": 4
+      },
+      {
+        "userName": "Ella Smith",
+        "userOccupation": "Student",
+        "review": "The course is easy to follow and provides a solid foundation in VR game development. Perfect for beginners interested in VR.",
+        "rating": 4
+      }
+    ]
+  }
+]
